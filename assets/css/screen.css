@@ -46,7 +46,40 @@ pre {
 
 .main-content {
     min-height: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
+
+.hero {
+	position: relative;
+	background-image: url('/assets/images/hero-image.png'); /* Ensure this path is correct */
+	background-size: cover;
+	background-position: center;
+	height: 100vh; /* Adjust height as needed */
+	color: #fff; /* Text color for readability */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+  }
+  
+  .hero-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	z-index: 1; /* Ensure content is above the overlay */
+  }
+  
+  .hero-content {
+	z-index: 2; /* Ensure content is above the overlay */
+  }
 
 .hero-section {
     padding-left: 0;
@@ -58,8 +91,6 @@ pre {
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
-    padding-left: 20px;
-    padding-right: 20px;
     margin-top: 57px;
     transition: all 0.4s;
 }
