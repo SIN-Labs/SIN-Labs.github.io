@@ -48,6 +48,13 @@ pre {
     min-height: 300px;
 }
 
+.hero-section {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
