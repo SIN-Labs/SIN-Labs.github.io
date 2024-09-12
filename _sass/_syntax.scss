@@ -67,3 +67,36 @@
 
 td.rouge-code { width: 100%;}
 pre.lineno { color: #9999;}
+
+/* Add these styles to your existing CSS file */
+
+.hero {
+	position: relative;
+	background-image: url('/assets/images/hero-image.png'); /* Ensure this path is correct */
+	background-size: cover;
+	background-position: center;
+	height: 400px; /* Adjust height as needed */
+	color: #fff; /* Text color for readability */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+  }
+  
+  .hero-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	z-index: 1; /* Ensure content is above the overlay */
+  }
+  
+  .hero-content {
+	z-index: 2; /* Ensure content is above the overlay */
+  }
