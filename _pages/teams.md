@@ -12,7 +12,7 @@ permalink: /team/
 <div class="team-grid">
     {% assign directors = site.team | where: "role", "director" %}
     {% for person in directors %}
-        {% include teambox.html %}
+        {% include teammember.html %}
     {% endfor %}
 </div>
 
@@ -20,7 +20,7 @@ permalink: /team/
 <div class="team-grid">
     {% assign pis = site.team | where: "role", "principal investigator" %}
     {% for person in pis %}
-        {% include teambox.html %}
+        {% include teammember.html %}
     {% endfor %}
 </div>
 
@@ -28,7 +28,7 @@ permalink: /team/
 <div class="team-grid">
     {% assign students = site.team | where: "role", "student" %}
     {% for person in students %}
-        {% include teambox.html %}
+        {% include teammember.html %}
     {% endfor %}
 </div>
 
@@ -36,6 +36,6 @@ permalink: /team/
 <div class="team-grid">
     {% assign assistants = site.team | where: "role", "research assistant" %}
     {% for person in assistants %}
-        {% include teambox.html %}
+        {% include teammember.html %}
     {% endfor %}
 </div>
