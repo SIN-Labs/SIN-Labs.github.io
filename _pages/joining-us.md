@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Join Us"
+hero_image: "/assets/images/joining-us.JPG"
+hero_title: "Joining Us"
 permalink: /joining-us/
 ---
 
