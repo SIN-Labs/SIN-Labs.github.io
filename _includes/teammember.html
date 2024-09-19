@@ -1,0 +1,19 @@
+<!-- begin team member -->
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="{{ site.baseurl }}{{ person.permalink }}">
+                {% if person.image %}
+                    <img class="img-fluid" src="{% if person.image contains "://" %}{{ person.image }}{% else %}{{ site.baseurl }}/{{ person.image }}{% endif %}" alt="{{ person.title }}">
+                {% endif %}
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="{{ site.baseurl }}{{ person.permalink }}">{{ person.title }}</a>
+            </h2>
+            <h4 class="card-text">{{ person.excerpt | strip_html | truncatewords:30 }}</h4>
+        </div>
+    </div>
+</div>
+<!-- end team member -->
