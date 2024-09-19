@@ -32,10 +32,17 @@ permalink: /team/
     {% endfor %}
 </div>
 
-## Research Assistants
-<div class="team-grid">
-    {% assign assistants = site.team | where: "role", "research assistant" %}
-    {% for person in assistants %}
-        {% include teammember.html %}
-    {% endfor %}
-</div>
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Research Assistants</span></h2>
+    </div>
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+            {% include postbox.html %}
+        {% endfor %}
+
+    </div>
+</section>
