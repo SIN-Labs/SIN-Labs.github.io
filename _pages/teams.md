@@ -1,6 +1,8 @@
 ---
-title: Meet The Team
 layout: default
+title: Team
+hero_image: "/assets/images/team.jpg"
+hero_title: Team
 permalink: /team/
 ---
 
