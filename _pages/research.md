@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /research/
+permalink: /about/research/
 ---
 
 ## Research at Perceptual Intelligence Laboratories
