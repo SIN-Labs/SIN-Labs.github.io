@@ -2,21 +2,22 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="{{ site.baseurl }}{{ item.url }}">
-                {% if item.image %}
+            <a href="{{ site.baseurl }}{{ gallery_item.url }}">
+                {% if gallery_item.image %}
                     {% if site.lazyimages == "enabled" %}
-                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if item.image contains "://" %}{{ item.image }}{% else %}{{ site.baseurl }}/{{ item.image }}{% endif %}" alt="{{ item.title }}">
+                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if gallery_item.image contains "://" %}{{ gallery_item.image }}{% else %}{{ site.baseurl }}/{{ gallery_item.image }}{% endif %}" alt="{{ gallery_item.title }}">
                     {% else %}
-                        <img class="img-fluid" src="{% if item.image contains "://" %}{{ item.image }}{% else %}{{ site.baseurl }}/{{ item.image }}{% endif %}" alt="{{ item.title }}">
+                        <img class="img-fluid" src="{% if gallery_item.image contains "://" %}{{ gallery_item.image }}{% else %}{{ site.baseurl }}/{{ gallery_item.image }}{% endif %}" alt="{{ gallery_item.title }}">
                     {% endif %}
                 {% endif %}
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ gallery_item.url }}">{{ gallery_item.title }}</a>
             </h2>
-            <h4 class="card-text">{{ item.excerpt | strip_html | truncatewords:20 }}</h4>
+            <p class="post-date">{{ gallery_item.date | date: "%B %d, %Y" }}</p> <!-- Display date in the desired format -->
+            <h4 class="card-text">{{ gallery_item.excerpt | strip_html | truncatewords:20 }}</h4>
         </div>
     </div>
 </div>
