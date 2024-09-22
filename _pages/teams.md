@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Meet the Team"
+hero_iamge: "/assets/images/team.jpg"
+hero_title: "Team"
 permalink: /team/
 ---
 
