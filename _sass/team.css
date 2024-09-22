@@ -14,8 +14,9 @@
 }
 
 .team-image img {
-    width: 100%;
-    height: auto;
+    width: 100%; /* Ensures the image fills the width of the container */
+    height: 300px; /* Fixed height for all images */
+    object-fit: cover; /* Ensures images are cropped to fit the container */
     border-radius: 10px;
 }
 
