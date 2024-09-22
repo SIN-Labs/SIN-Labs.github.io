@@ -934,15 +934,17 @@ iframe {
 }
 
 /** Gallerybox **/
-.gallerybox h2 {
-    font-size: 1.3rem;
-    font-weight: 700;
-    line-height: 1.25;
-  }
-  
-  .gallerybox p {
-    color: rgba(0, 0, 0, .44);
+div.gallerybox h2.card-title,
+div.gallerybox p,
+div.gallerybox h4.card-text {
+    color: rgba(0, 0, 0, 0.44);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
-  }
+}
+
+.gallerybox h2, 
+.gallerybox p, 
+.gallerybox h4 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
