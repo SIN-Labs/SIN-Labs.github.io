@@ -97,7 +97,7 @@ permalink: /team/
     </div>
     <div class="row justify-content-center">
         <div class="col-md-4 text-center">
-            <img src="/assets/images/team/junseohwang.jpg" alt="Jun Seo Hwang" class="img-fluid" style="width: 300px; height: 400px; object-fit: cover;">
+            <img src="/assets/images/team/junseo.jpeg" alt="Jun Seo Hwang" class="img-fluid" style="width: 300px; height: 400px; object-fit: cover;">
             <h3>Jun Seo Hwang</h3>
             <p>Jun Seo Hwang is a dedicated Research Assistant contributing to the Perceptual Intelligence Lab's neurofeedback and behavioral experiments.</p>
         </div>
