@@ -1,5 +1,5 @@
 <!-- begin gallerybox -->
-<div class="col-lg-4 col-md-6 mb-30px card-group">
+<div class="col-lg-4 col-md-4 mb-30px card-group"> <!-- Adjust the column size -->
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ gallery_item.url }}">
@@ -16,7 +16,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ gallery_item.url }}">{{ gallery_item.title }}</a>
             </h2>
-            <p class="post-date">{{ gallery_item.date | date: "%B %d, %Y" }}</p> <!-- Display date in the desired format -->
+            <p class="post-date">{{ gallery_item.date | date: "%B %d, %Y" }}</p>
             <h4 class="card-text">{{ gallery_item.excerpt | strip_html | truncatewords:20 }}</h4>
         </div>
     </div>
