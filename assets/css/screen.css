@@ -932,3 +932,17 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+/** Gallerybox **/
+.gallerybox h2 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  
+  .gallerybox p {
+    color: rgba(0, 0, 0, .44);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 400;
+  }
