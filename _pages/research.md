@@ -2,7 +2,7 @@
 layout: default
 title: Research
 hero_title: "Research"
-permalink: /research/
+permalink: /about/research/
 ---
 
 ## Research at Perceptual Intelligence Laboratories
