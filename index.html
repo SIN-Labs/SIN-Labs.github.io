@@ -40,11 +40,15 @@ hero_title: "Perceptual<br>Intelligence<br>Laboratories"
     </div>
 </section>
 
-<!-- Pagination
+<!-- Gallery Section
 ================================================== -->
-<div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-        {% include pagination.html %}
-    </span>
-</div>
+<section class="gallery-section">
+    <div class="section-title">
+        <h2><span><a href="{{ site.baseurl }}/media/gallery" style="color: inherit; text-decoration: none;">Gallery</a></span></h2>
+    </div>
+    <div class="row">
+        {% for item in site.gallery %}
+            {% include gallerybox.html %}
+        {% endfor %}
+    </div>
+</section>

@@ -50,7 +50,11 @@ jekyll-archives:
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
-    
+
+collections:
+  gallery:
+    output: true
+        
 # Other
 markdown: kramdown
 
