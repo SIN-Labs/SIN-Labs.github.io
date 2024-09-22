@@ -54,7 +54,8 @@ paginate_path: /page:num/
 collections:
   gallery:
     output: true
-        
+    permalink: /gallery/:title
+
 # Other
 markdown: kramdown
 
