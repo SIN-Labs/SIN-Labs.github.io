@@ -74,28 +74,32 @@ permalink: /team/
     </div>
 </section>
 
-<!-- Students Section -->
+<!-- Students
+================================================== -->
 <section class="team-section">
     <div class="section-title">
         <h2><span>Students</span></h2>
     </div>
-    <div class="row">
-        {% assign students = site.team | where: "role", "student" %}
-        {% for member in students %}
-            {% include teammember.html %}
-        {% endfor %}
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            <img src="/assets/images/team/olga.jpg" alt="Olga Gulka" class="img-fluid" style="width: 300px; height: 400px; object-fit: cover;">
+            <h3>Olga Gulka</h3>
+            <p>Olga Gulka will be starting her PhD program in March 2025. Her research will focus on perception and neurofeedback in cognitive neuroscience.</p>
+        </div>
     </div>
 </section>
 
-<!-- Research Assistants Section -->
+<!-- Research Assistants
+================================================== -->
 <section class="team-section">
     <div class="section-title">
         <h2><span>Research Assistants</span></h2>
     </div>
-    <div class="row">
-        {% assign research_assistants = site.team | where: "role", "research assistant" %}
-        {% for member in research_assistants %}
-            {% include teammember.html %}
-        {% endfor %}
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            <img src="/assets/images/team/junseohwang.jpg" alt="Jun Seo Hwang" class="img-fluid" style="width: 300px; height: 400px; object-fit: cover;">
+            <h3>Jun Seo Hwang</h3>
+            <p>Jun Seo Hwang is a dedicated Research Assistant contributing to the Perceptual Intelligence Lab's neurofeedback and behavioral experiments.</p>
+        </div>
     </div>
 </section>
