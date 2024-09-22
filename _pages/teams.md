@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Meet the Team"
-hero_iamge: "/assets/images/team.jpg"
+hero_image: "/assets/images/team.jpg"
 hero_title: "Team"
 permalink: /team/
 ---
@@ -16,7 +16,7 @@ permalink: /team/
         <div class="col-md-6 col-lg-4 mb-30px">
             <div class="team-card text-center  h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/hakwan.jpg" alt="Hakwan Lau" style="width: 100%; height: 300px; object-fit: cover;">
+                    <img class="img-fluid" src="/assets/images/team/hakwan.jpg" alt="Hakwan Lau" style="width: 80%; height: 400px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Hakwan Lau</h3>
@@ -37,7 +37,7 @@ permalink: /team/
         <div class="col-md-6 col-lg-4 mb-30px">
             <div class="team-card text-center h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/kayuet.jpg" alt="Kayeut Liu" style="width: 100%; height: 300px; object-fit: cover;">
+                    <img class="img-fluid" src="/assets/images/team/kayuet.jpg" alt="Kayeut Liu" style="width: 80%; height: 400px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Kayeut Liu</h3>
@@ -50,7 +50,7 @@ permalink: /team/
         <div class="col-md-6 col-lg-4 mb-30px">
             <div class="team-card text-center h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/ali.jpg" alt="Ali Moharramipour" style="width: 100%; height: 300px; object-fit: cover;">
+                    <img class="img-fluid" src="/assets/images/team/ali.jpg" alt="Ali Moharramipour" style="width: 80%; height: 400px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Ali Moharramipour</h3>
@@ -63,7 +63,7 @@ permalink: /team/
         <div class="col-md-6 col-lg-4 mb-30px">
             <div class="team-card text-center h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/qi.jpg" alt="Qi Lin" style="width: 100%; height: 300px; object-fit: cover;">
+                    <img class="img-fluid" src="/assets/images/team/qi.jpg" alt="Qi Lin" style="width: 80%; height: 400px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Qi Lin</h3>
