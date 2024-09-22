@@ -95,9 +95,17 @@ ga('send', 'pageview');
 
             <div class="collapse navbar-collapse" id="navbarMediumish">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item {% if page.url == '/about/' %}active{% endif %}">
-                        <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                    <!-- Dropdown for About -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            About
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="{{ site.baseurl }}/about/pil">PIL</a>
+                            <a class="dropdown-item" href="{{ site.baseurl }}/about/research">Research</a>
+                        </div>
                     </li>
+
                     <li class="nav-item {% if page.url == '/news/' %}active{% endif %}">
                         <a class="nav-link" href="{{ site.baseurl }}/news">News</a>
                     </li>
