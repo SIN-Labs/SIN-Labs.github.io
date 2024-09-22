@@ -5,17 +5,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-
     <title>{{ page.title }} | {{site.name}}</title>
 
     {% seo %}
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    
     <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+    <style>
+        /* Base styles for all screens */
+        .hero-content h1 {
+            font-size: 4rem;
+            font-weight: bold;
+            color: white;
+            margin-left: 10px;
+        }
+
+        .hero-content p {
+            font-size: 2rem;
+            font-weight: normal;
+            color: white;
+            margin-left: 10px;
+        }
+
+        /* Medium and large screens */
+        @media (min-width: 768px) {
+            .hero-content h1 {
+                font-size: 5rem;
+                padding-left: 5vw;
+            }
+
+            .hero-content p {
+                font-size: 2.5rem;
+                padding-left: 5vw;
+            }
+        }
+
+        /* Small screens */
+        @media (max-width: 767px) {
+            .hero-content {
+                text-align: center;
+                padding-top: 15vh;
+            }
+
+            .hero-content h1 {
+                font-size: 2.5rem;
+                padding-left: 0;
+            }
+
+            .hero-content p {
+                font-size: 1.5rem;
+                padding-left: 0;
+            }
+        }
+    </style>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -32,12 +78,12 @@ ga('send', 'pageview');
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
-	<!-- Navigation Bar -->
-	<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
         <div class="container pr-0 d-flex align-items-center">
             <!-- Logo and Title -->
             <a class="navbar-brand d-flex align-items-center" href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" class="mr-2">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" class="mr-2" style="height: 50px;">
                 <span class="site-title" style="font-size: 15px; line-height: 1.0; margin-left: 10px; margin-top: 0; margin-bottom: 0; padding: 0; font-weight: bold;">
                     Perceptual<br>
                     Intelligence<br>
@@ -67,13 +113,9 @@ ga('send', 'pageview');
     <!-- Hero Section -->
     <div class="hero">
         <div class="hero-overlay">
-            <div class="hero-content" style="text-align: center; padding-top: 20vh;">
-                <h1 style="font-size: 5rem; font-weight: bold; color: white;">
-                    {{ page.hero_title | default: site.hero_title }}
-                </h1>
-                <p style="font-size: 2.5rem; font-weight: bold; color: white;">
-                    {{ page.hero_description | default: site.hero_description }}
-                </p>
+            <div class="hero-content" style="padding: 10vh 5vw;">
+                <h1>{{ page.hero_title | default: site.hero_title }}</h1>
+                <p>{{ page.hero_description | default: site.hero_description }}</p>
             </div>
         </div>
     </div>
