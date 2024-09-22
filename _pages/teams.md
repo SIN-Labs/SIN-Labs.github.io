@@ -11,12 +11,12 @@ permalink: /team/
     <div class="section-title">
         <h2><span>Director</span></h2>
     </div>
-    <div class="row">
+    <div class="row justify-content-center">
         <!-- Hardcoded Director Section -->
         <div class="col-md-6 col-lg-4 mb-30px">
-            <div class="team-card h-100">
+            <div class="team-card text-center  h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/hakwan.jpg" alt="Hakwan Lau">
+                    <img class="img-fluid" src="/assets/images/team/hakwan.jpg" alt="Hakwan Lau" style="width: 100%; height: 300px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Hakwan Lau</h3>
@@ -32,12 +32,12 @@ permalink: /team/
     <div class="section-title">
         <h2><span>Principal Investigators</span></h2>
     </div>
-    <div class="row">
+    <div class="row justify-content-center">
         <!-- Kayuet Liu -->
         <div class="col-md-6 col-lg-4 mb-30px">
-            <div class="team-card h-100">
+            <div class="team-card text-center h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/kayuet.jpg" alt="Kayeut Liu">
+                    <img class="img-fluid" src="/assets/images/team/kayuet.jpg" alt="Kayeut Liu" style="width: 100%; height: 300px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Kayeut Liu</h3>
@@ -48,9 +48,9 @@ permalink: /team/
 
         <!-- Ali Moharramipour -->
         <div class="col-md-6 col-lg-4 mb-30px">
-            <div class="team-card h-100">
+            <div class="team-card text-center h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/ali.jpg" alt="Ali Moharramipour">
+                    <img class="img-fluid" src="/assets/images/team/ali.jpg" alt="Ali Moharramipour" style="width: 100%; height: 300px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Ali Moharramipour</h3>
@@ -61,9 +61,9 @@ permalink: /team/
 
         <!-- Qi Lin -->
         <div class="col-md-6 col-lg-4 mb-30px">
-            <div class="team-card h-100">
+            <div class="team-card text-center h-100">
                 <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/qilin.jpg" alt="Qi Lin">
+                    <img class="img-fluid" src="/assets/images/team/qi.jpg" alt="Qi Lin" style="width: 100%; height: 300px; object-fit: cover;">
                 </div>
                 <div class="team-body">
                     <h3 class="team-title">Qi Lin</h3>
