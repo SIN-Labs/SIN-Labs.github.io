@@ -5,6 +5,35 @@ hero_image: "/assets/images/joining-us.JPG"
 hero_title: "Joining Us"
 permalink: /joining-us/
 ---
+<section class="joining-us-section">
+    <div class="section-title">
+        <h2><span>Postdoc</span></h2>
+    </div>
+    <div class="content">
+        <p>We are recruiting postdoctoral researchers to join our lab. If you're passionate about perception, cognitive neuroscience, and related fields, we'd love to hear from you!</p>
+    </div>
+    
+    <div class="section-title">
+        <h2><span>Students</span></h2>
+    </div>
+    <div class="content">
+        <p>We are recruiting graduate students. At PIL, you will have the opportunity to work with multiple PIs, and switch between labs to gain broad exposure to different research areas.</p>
+    </div>
+
+    <div class="section-title">
+        <h2><span>Research Assistants</span></h2>
+    </div>
+    <div class="content">
+        <p>We are recruiting research assistants to help with ongoing projects in neurofeedback, data analysis, and behavioral experiments. If you're enthusiastic about research and collaboration, apply now!</p>
+    </div>
+
+    <div class="section-title">
+        <h2><span>Administrative Staff</span></h2>
+    </div>
+    <div class="content">
+        <p>We are recruiting administrative staff who are fluent in English and Korean and have experience working with foreigners. This role involves assisting with lab administration, coordination, and project management.</p>
+    </div>
+</section>
 
 ## How to Join Us
 
