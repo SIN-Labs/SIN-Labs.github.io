@@ -33,10 +33,44 @@ permalink: /team/
         <h2><span>Principal Investigators</span></h2>
     </div>
     <div class="row">
-        {% assign pis = site.team | where: "role", "principal investigator" %}
-        {% for member in pis %}
-            {% include teammember.html %}
-        {% endfor %}
+        <!-- Kayuet Liu -->
+        <div class="col-md-6 col-lg-4 mb-30px">
+            <div class="team-card h-100">
+                <div class="team-image">
+                    <img class="img-fluid" src="/assets/images/team/kayuet.jpg" alt="Kayeut Liu">
+                </div>
+                <div class="team-body">
+                    <h3 class="team-title">Kayeut Liu</h3>
+                    <p class="team-excerpt">Kayeut's group focuses on mental health conditions like depression and anxiety disorders, and their link to aphantasia, using large cohort data analysis.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ali Moharramipour -->
+        <div class="col-md-6 col-lg-4 mb-30px">
+            <div class="team-card h-100">
+                <div class="team-image">
+                    <img class="img-fluid" src="/assets/images/team/ali.jpg" alt="Ali Moharramipour">
+                </div>
+                <div class="team-body">
+                    <h3 class="team-title">Ali Moharramipour</h3>
+                    <p class="team-excerpt">Ali's group focuses on understanding the multidimensional nature of perception and uses human neuroimaging and mouse neurophysiological methods to study perceptual mechanisms.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Qi Lin -->
+        <div class="col-md-6 col-lg-4 mb-30px">
+            <div class="team-card h-100">
+                <div class="team-image">
+                    <img class="img-fluid" src="/assets/images/team/qilin.jpg" alt="Qi Lin">
+                </div>
+                <div class="team-body">
+                    <h3 class="team-title">Qi Lin</h3>
+                    <p class="team-excerpt">Qi's group focuses on individual differences in both perception and memory. She uses human neuroimaging and primate data to explore neural coding of images.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
