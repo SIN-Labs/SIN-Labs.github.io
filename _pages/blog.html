@@ -1,0 +1,48 @@
+---
+layout: default
+title: "Blog"
+hero_image: "/assets/images/blog.jpg"
+hero_title: "Blog"
+pagination: 
+  enabled: true
+  collection: blog
+permalink: /blog/
+---
+
+<!-- Blog Section Grouped by Month and Year -->
+<section class="blog-section">
+
+    {% assign sorted_blog = site.blog | sort: 'date' | reverse %}
+    {% assign current_month = "" %}
+    {% assign current_year = "" %}
+
+    {% for item in sorted_blog %}
+        {% assign item_year = item.date | date: "%Y" %}
+        {% assign item_month = item.date | date: "%B" %}
+
+        <!-- Check if the current item belongs to a new month and year -->
+        {% if item_month != current_month or item_year != current_year %}
+            <!-- Close the previous row div if necessary -->
+            {% unless current_month == "" %}
+                </div> <!-- End of previous month's row -->
+            {% endunless %}
+
+            <!-- New section for the new month and year -->
+            <section class="team-section">
+                <div class="section-title">
+                    <h2><span>{{ item_month }} {{ item_year }}</span></h2>
+                </div>
+                <div class="row">
+        {% endif %}
+
+        <!-- Include the blog item -->
+        {% include blogbox.html %}
+
+        <!-- Update current_month and current_year to this item's month and year -->
+        {% assign current_month = item_month %}
+        {% assign current_year = item_year %}
+    {% endfor %}
+
+    <!-- Close the last row div -->
+    </div>
+</section>
