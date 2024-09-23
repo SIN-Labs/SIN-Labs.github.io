@@ -25,6 +25,20 @@ hero_title: "Perceptual<br>Intelligence<br>Laboratories"
 
 {% endif %}
 
+<!-- News Section
+================================================== -->
+<section class="news-section">
+    <div class="section-title">
+        <h2><span><a href="{{ site.baseurl }}/news" style="color: inherit; text-decoration: none;">News</a></span></h2>
+    </div>
+    <div class="row">
+        {% assign sorted_news = site.news | sort: 'date' | reverse %}
+        {% for item in sorted_news %}
+            {% include newsbox.html %}
+        {% endfor %}
+    </div>
+</section>
+
 <!-- Blog Section
 ================================================== -->
 <section class="blog-section">
