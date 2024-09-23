@@ -11,9 +11,6 @@ permalink: /gallery/
 
 <!-- Gallery Section Grouped by Month and Year -->
 <section class="gallery-section">
-    <div class="section-title">
-        <h2><span>Gallery</span></h2>
-    </div>
 
     {% assign sorted_gallery = site.gallery | sort: 'date' | reverse %}
     {% assign current_month = "" %}
