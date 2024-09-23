@@ -77,11 +77,6 @@ collections:
     output: true
     permalink: /gallery/:title
 
-collections:
-  blog:
-    output: true
-    permalink: /blog/:title
-
 # Other
 markdown: kramdown
 
