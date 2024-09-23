@@ -4,27 +4,6 @@ title: Home
 hero_title: "Perceptual<br>Intelligence<br>Laboratories"
 ---
 
-{% if page.url == "/" %}
-
-<!-- Featured Posts
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span><a href="{{ site.baseurl }}/media/news" style="color: inherit; text-decoration: none;">News</a></span></h2>
-    </div>
-    <div class="row">
-
-        {% for post in site.posts %}
-            {% if post.featured == true %}
-                {% include featuredbox.html %}
-            {% endif %}
-        {% endfor %}
-
-    </div>
-</section>
-
-{% endif %}
-
 <!-- News Section
 ================================================== -->
 <section class="news-section">
