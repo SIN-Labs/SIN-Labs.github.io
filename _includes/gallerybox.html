@@ -1,5 +1,5 @@
 <!-- begin gallerybox -->
-<div class="col-lg-3 col-md-6 mb-30px card-group"> <!-- Adjust the column size -->
+<div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-30px card-group"> <!-- Adjust the column size -->
     <div class="card h-100 listfeaturedtag">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ item.url }}">
@@ -16,7 +16,6 @@
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
             </h2>
-            <h4 class="card-text">{{ item.excerpt | strip_html | truncatewords:20 }}</h4>
         </div>
         <div class="card-footer b-0 bg-white mt-auto">
             <div class="wrapfooter">
