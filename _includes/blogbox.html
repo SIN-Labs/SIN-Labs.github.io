@@ -1,23 +1,12 @@
 <!-- begin blogbox -->
-<div class="col-lg-4 col-md-4 mb-30px card-group">
+<div class="col-lg-4 col-md-6 mb-30px card-group"> <!-- Adjust the column size -->
     <div class="card h-100 listfeaturedtag">
-        <div class="maxthumb">
-            <a href="{{ site.baseurl }}{{ item.url }}">
-                {% if item.image %}
-                    {% if site.lazyimages == "enabled" %}
-                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if item.image contains "://" %}{{ item.image }}{% else %}{{ site.baseurl }}/{{ item.image }}{% endif %}" alt="{{ item.title }}">
-                    {% else %}
-                        <img class="img-fluid" src="{% if item.image contains "://" %}{{ item.image }}{% else %}{{ site.baseurl }}/{{ item.image }}{% endif %}" alt="{{ item.title }}">
-                    {% endif %}
-                {% endif %}
-            </a>
-        </div>
         <div class="card-body">
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
             </h2>
             <p class="post-date">{{ item.date | date: "%B %d, %Y" }}</p>
-            <h4 class="card-text">{{ item.excerpt | strip_html | truncatewords: 30 }}</h4>
+            <h4 class="card-text">{{ item.excerpt | strip_html | truncatewords:20 }}</h4>
         </div>
     </div>
 </div>
