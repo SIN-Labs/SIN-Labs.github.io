@@ -78,9 +78,9 @@ collections:
     permalink: /gallery/:title
 
 collections:
-  posts:
+  blog:
     output: true
-    permalink: /:categories/:year/:month/:day/:title/
+    permalink: /blog/:title
 
 # Other
 markdown: kramdown
