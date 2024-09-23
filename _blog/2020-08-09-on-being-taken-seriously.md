@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "on being taken seriously"
+hero_image: "/assets/images/blog.jpg"
+hero_title: "Blog"
 date: 2020-08-09
 permalink: /blog/2020-08-09-on-being-taken-seriously/
 ---

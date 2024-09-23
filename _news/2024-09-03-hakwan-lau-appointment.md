@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Hakwan Lau Appointed as Co-Director of IBS Neuroscience Imaging Research Group"
+hero_image: "/assets/images/news.jpg"
+hero_title: "News"
 image: assets/images/hakwan-lau-appointment.jpg
 date: 2024-09-03
 permalink: /news/2024-09-03-hakwan-lau-appointment/
