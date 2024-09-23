@@ -47,7 +47,8 @@ hero_title: "Perceptual<br>Intelligence<br>Laboratories"
         <h2><span><a href="{{ site.baseurl }}/media/gallery" style="color: inherit; text-decoration: none;">Gallery</a></span></h2>
     </div>
     <div class="row">
-        {% for item in site.gallery %}
+        {% assign sorted_gallery = site.gallery | sort: 'date' | reverse %}
+        {% for item in sorted_gallery %}
             {% include gallerybox.html %}
         {% endfor %}
     </div>
