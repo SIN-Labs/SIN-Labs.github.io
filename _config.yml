@@ -79,6 +79,9 @@ collections:
   blog:
     output: true
     permalink: /blog/:title
+  news:
+    output: true
+    permalink: /news/:title
 
 # Other
 markdown: kramdown
