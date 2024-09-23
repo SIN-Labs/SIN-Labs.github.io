@@ -40,6 +40,20 @@ hero_title: "Perceptual<br>Intelligence<br>Laboratories"
     </div>
 </section>
 
+<!-- Blog Section
+================================================== -->
+<section class="blog-section">
+    <div class="section-title">
+        <h2><span><a href="{{ site.baseurl }}/blog" style="color: inherit; text-decoration: none;">Blog</a></span></h2>
+    </div>
+    <div class="row">
+        {% assign sorted_blog = site.blog | sort: 'date' | reverse %}
+        {% for item in sorted_blog %}
+            {% include blogbox.html %}
+        {% endfor %}
+    </div>
+</section>
+
 <!-- Gallery Section
 ================================================== -->
 <section class="gallery-section">
