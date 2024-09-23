@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Gallery"
+pagination: 
+  enabled: true
+  collection: gallery
+permalink: /media/gallery/
+---
+
+<!-- Gallery Section -->
+<section class="gallery-section">
+    <div class="section-title">
+        <h2><span>Gallery</span></h2>
+    </div>
+    <div class="row">
+        {% for item in paginator.posts %}
+            {% include gallerybox.html %}
+        {% endfor %}
+    </div>
+</section>
+
+<!-- Pagination -->
+<div class="bottompagination">
+    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
+</div>
