@@ -18,7 +18,7 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/hakwan-lau" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <!-- Adjusted image size -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/hakwan.jpg'); background-size: cover; background-position: 38% 22%; width: 250px; height: 350px; margin: 0 auto;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/hakwan.jpg'); background-size: cover; background-position: 38% 22%; width: 300px; height: 400px; margin: 0 auto;">
                     </div>
                     <div class="card-body text-center">
                         <!-- Centered title -->
