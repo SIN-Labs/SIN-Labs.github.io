@@ -1,19 +1,14 @@
 <!-- begin teambox -->
 <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-30px card-group"> <!-- Adjust column size as needed -->
-    <div class="card h-100 listfeaturedtag"></div>
-        <div class="maxthumb" style="height: 250px; overflow: hidden;"> <!-- Fixed height for image container -->
-            <a href="{{ site.baseurl }}{{ item.url }}">
-                {% if item.image %}
-                    <img class="fixed-image" src="{% if item.image contains "://" %}{{ item.image }}{% else %}{{ site.baseurl }}/{{ item.image }}{% endif %}" alt="{{ item.name }}">
-                {% endif %}
-            </a>
+    <div class="team-card text-center h-100">
+        <div class="team-image">
+            <img class="img-fluid" src="{{ item_image }}" alt="{{ item_name }}" style="width: 80%; height: 400px; object-fit: cover;">
         </div>
-        <div class="card-body">
+        <div class="team-body">
             <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
+                <a class="text-dark">{{ item_name }}</a>
             </h2>
-            <h4 class="card-text">{{ item.position }}</h4>
-            <p class="card-text">{{ item.excerpt | strip_html | truncatewords:15 }}</p>
+            <h4 class="card-text">{{ item_excerpt }}</h4>
         </div>
     </div>
 </div>

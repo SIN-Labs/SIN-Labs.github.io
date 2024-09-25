@@ -12,10 +12,11 @@ permalink: /team/
         <h2><span>Director</span></h2>
     </div>
     <div class="row justify-content-center">
-        {% assign directors = site.team | where: 'category', 'Director' %}
-        {% for item in directors %}
-            {% include teambox.html %}
-        {% endfor %}
+        <!-- Hardcoded Director Section -->
+        {% assign item_name = "Hakwan Lau" %}
+        {% assign item_image = "/assets/images/team/hakwan.jpg" %}
+        {% assign item_excerpt = "Director of the Perceptual Intelligence Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies." %}
+        {% include teambox.html %}
     </div>
 </section>
 
