@@ -5,43 +5,70 @@ hero_image: "/assets/images/joining-us.JPG"
 hero_title: "Joining Us"
 permalink: /joining-us/
 ---
+
+<!-- Introduction Section -->
 <section class="joining-us-section">
     <div class="section-title">
-        <h2><span>Postdoc</span></h2>
+        <h2><span>Introduction</span></h2>
     </div>
     <div class="content">
-        <p>We are recruiting postdoctoral researchers to join our lab. If you're passionate about perception, cognitive neuroscience, and related fields, we'd love to hear from you!</p>
-    </div>
-    
-    <div class="section-title">
-        <h2><span>Students</span></h2>
-    </div>
-    <div class="content">
-        <p>We are recruiting graduate students. At PIL, you will have the opportunity to work with multiple PIs, and switch between labs to gain broad exposure to different research areas.</p>
-    </div>
-
-    <div class="section-title">
-        <h2><span>Research Assistants</span></h2>
-    </div>
-    <div class="content">
-        <p>We are recruiting research assistants to help with ongoing projects in neurofeedback, data analysis, and behavioral experiments. If you're enthusiastic about research and collaboration, apply now!</p>
-    </div>
-
-    <div class="section-title">
-        <h2><span>Administrative Staff</span></h2>
-    </div>
-    <div class="content">
-        <p>We are recruiting administrative staff who are fluent in English and Korean and have experience working with foreigners. This role involves assisting with lab administration, coordination, and project management.</p>
+        <p>Our lab, co-directed by Prof. Hakwan Lau and supported by MR physicist Seong-Gi Kim, is located at the IBS Center for Neuroscience Imaging Research at Sungkyunkwan University, Korea. We are moving to Korea in September 2024 and are excited to build several new research groups in neuroimaging and related fields. With access to some of the world’s most advanced neuroimaging facilities (7T MRI for humans, 15.2T MRI for rodents, and more), we are looking for dedicated individuals to join us at all levels.</p>
+        <p>We are actively recruiting for the following positions:</p>
     </div>
 </section>
 
-<!-- How to Join Us Section -->
+<!-- Positions Available Section -->
 <section class="joining-us-section">
     <div class="section-title">
-        <h2><span>How to Join Us</span></h2>
+        <h2><span>Positions Available</span></h2>
+    </div>
+
+    <div class="content">
+        <div class="section-title">
+            <h3><span>Postdoctoral Researchers</span></h3>
+        </div>
+        <p>We are hiring postdocs in various areas of neuroscience research. Funding is available for up to 10 years with potential internal promotions to faculty positions through open competition. Opportunities include working on:</p>
+        <ul>
+            <li>Human cognitive neuroscience (focus on perception, memory, and fMRI analysis related to mental imagery and mental health)</li>
+            <li>Computational neuroimaging (real-time/closed-loop multivoxel pattern analysis, network control theory, traveling waves, etc.)</li>
+            <li>Rodent electrophysiology and calcium imaging (perceptual decision-making, neurofeedback, fMRI)</li>
+        </ul>
+
+        <div class="section-title">
+            <h3><span>PhD Students</span></h3>
+        </div>
+        <p>We are recruiting PhD students interested in human cognitive neuroscience, high-level perception, memory, and large group fMRI data analysis. You will have the opportunity to work across multiple PIs and gain a wide variety of experience.</p>
+
+        <div class="section-title">
+            <h3><span>Staff Scientists/Junior Principal Investigators</span></h3>
+        </div>
+        <p>We are hiring staff scientists or junior PIs who can establish and lead research groups of 2-3 full-time researchers, as well as PhD students. Internal funding is provided, so there is no pressure for grant writing or teaching duties. These positions come with potential to transition to tenure-track roles at SKKU. We are particularly interested in candidates focusing on rodent electrophysiology and calcium imaging.</p>
+
+        <div class="section-title">
+            <h3><span>Research Assistants</span></h3>
+        </div>
+        <p>We are looking for research assistants to help with ongoing projects, including neurofeedback, data analysis, and behavioral experiments. Enthusiasm for neuroscience research and collaboration is key!</p>
+
+        <div class="section-title">
+            <h3><span>Technical Staff</span></h3>
+        </div>
+        <p>We are seeking technical staff with expertise in brain stimulation (TMS, fMRI). Experience in computer hardware and programming (e.g., Python) is a plus, but minimal experience is required as training will be provided.</p>
+
+        <div class="section-title">
+            <h3><span>Administrative Staff</span></h3>
+        </div>
+        <p>We are recruiting administrative staff fluent in both English and Korean. No technical background is required, but interests in psychology and brain science would be ideal. Strong organizational skills and attention to detail are essential.</p>
+    </div>
+</section>
+
+<!-- How to Apply Section -->
+<section class="joining-us-section">
+    <div class="section-title">
+        <h2><span>How to Apply</span></h2>
     </div>
     <div class="content">
-        <p>We are recruiting graduate students! If you are interested, please contact us at <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. At the Perceptual Intelligence Lab (PIL), you will have the opportunity to work with multiple PIs and switch between labs for a versatile research experience.</p>
+        <p>If you are interested in joining Perceptual Intelligence Laboratories (PIL), please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining Perceptual Intelligence Laboratories” and specify the position(s) you are applying for.</p>
+        <p>Positions are available from September 2024, and the review and hiring processes will continue until early 2025.</p>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
