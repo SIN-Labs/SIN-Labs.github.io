@@ -12,10 +12,9 @@ permalink: /team/
         <h2><span>Director</span></h2>
     </div>
     <div class="row justify-content-center">
-        {% for item in site.team %}
-            {% if item.position == "Director" %}
-                {% include teambox.html item=item %}
-            {% endif %}
+        {% assign directors = site.team | where: "position", "Director" %}
+        {% for item in directors %}
+            {% include teambox.html item=item %}
         {% endfor %}
     </div>
 </section>
