@@ -24,12 +24,10 @@ permalink: /joining-us/
     </div>
 
     <!-- Postdoctoral Researchers -->
-    <div class="position-title">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #003366; border-bottom: 2px solid rgba(0, 0, 0, 0.125); padding-bottom: 10px;">
+    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
+        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Postdoctoral Researchers
         </h3>
-    </div>
-    <div class="content">
         <p>We are hiring postdoctoral researchers for various areas of neuroscience research. Funding is available for up to 10 years with potential internal promotions to faculty positions through open competition. Areas of focus include:</p>
         <ul>
             <li>Human cognitive neuroscience (focus on perception, memory, and fMRI analysis related to mental imagery and mental health)</li>
@@ -39,54 +37,45 @@ permalink: /joining-us/
     </div>
 
     <!-- PhD Students -->
-    <div class="position-title">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #003366; border-bottom: 2px solid rgba(0, 0, 0, 0.125); padding-bottom: 10px;">
+    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
+        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             PhD Students
         </h3>
-    </div>
-    <div class="content">
         <p>We are recruiting PhD students interested in human cognitive neuroscience, high-level perception, memory, and large group fMRI data analysis. At PIL, you will have the opportunity to work with multiple PIs and gain a wide variety of experience.</p>
     </div>
 
     <!-- Staff Scientists / Junior PIs -->
-    <div class="position-title">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #003366; border-bottom: 2px solid rgba(0, 0, 0, 0.125); padding-bottom: 10px;">
+    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
+        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Staff Scientists / Junior Principal Investigators
         </h3>
-    </div>
-    <div class="content">
         <p>We are hiring staff scientists or junior PIs who can establish and lead research groups of 2-3 full-time researchers, as well as PhD students. Internal funding is provided, so there is no pressure for grant writing or teaching duties. These positions come with potential to transition to tenure-track roles at SKKU, with a focus on rodent electrophysiology and calcium imaging.</p>
     </div>
 
     <!-- Research Assistants -->
-    <div class="position-title">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #003366; border-bottom: 2px solid rgba(0, 0, 0, 0.125); padding-bottom: 10px;">
+    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
+        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Research Assistants
         </h3>
-    </div>
-    <div class="content">
         <p>We are looking for research assistants to help with ongoing projects, including neurofeedback, data analysis, and behavioral experiments. Enthusiasm for neuroscience research and collaboration is key!</p>
     </div>
 
     <!-- Technical Staff -->
-    <div class="position-title">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #003366; border-bottom: 2px solid rgba(0, 0, 0, 0.125); padding-bottom: 10px;">
+    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
+        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Technical Staff
         </h3>
-    </div>
-    <div class="content">
         <p>We are seeking technical staff with expertise in brain stimulation (TMS, fMRI). Experience in computer hardware and programming (e.g., Python) is a plus, but minimal experience is required as training will be provided.</p>
     </div>
 
     <!-- Administrative Staff -->
-    <div class="position-title">
-        <h3 style="font-size: 1.5rem; font-weight: 700; color: #003366; border-bottom: 2px solid rgba(0, 0, 0, 0.125); padding-bottom: 10px;">
+    <div class="position-title" style="margin-left: 20px;">
+        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Administrative Staff
         </h3>
-    </div>
-    <div class="content">
         <p>We are recruiting administrative staff fluent in both English and Korean. No technical background is required, but interests in psychology and brain science would be ideal. Strong organizational skills and attention to detail are essential.</p>
     </div>
+
 </section>
 
 <!-- How to Apply Section -->
