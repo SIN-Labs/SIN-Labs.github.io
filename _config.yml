@@ -84,7 +84,7 @@ collections:
     permalink: /news/:title
   team:
     output: true
-    permalink: /team/:name
+    permalink: /team/:title
 
 # Other
 markdown: kramdown
