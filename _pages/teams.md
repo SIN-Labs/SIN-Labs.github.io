@@ -12,18 +12,10 @@ permalink: /team/
         <h2><span>Director</span></h2>
     </div>
     <div class="row justify-content-center">
-        <!-- Hardcoded Director Section -->
-        <div class="col-md-6 col-lg-4 mb-30px">
-            <div class="team-card text-center  h-100">
-                <div class="team-image">
-                    <img class="img-fluid" src="/assets/images/team/hakwan.jpg" alt="Hakwan Lau" style="width: 80%; height: 400px; object-fit: cover;">
-                </div>
-                <div class="team-body">
-                    <h3 class="team-title">Hakwan Lau</h3>
-                    <p class="team-excerpt">Director of the Perceptual Intelligence Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies.</p>
-                </div>
-            </div>
-        </div>
+        {% assign directors = site.team | where: 'position', 'Director' %}
+        {% for item in directors %}
+            {% include teambox.html %}
+        {% endfor %}
     </div>
 </section>
 
