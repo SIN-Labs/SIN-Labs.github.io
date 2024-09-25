@@ -13,10 +13,20 @@ permalink: /team/
     </div>
     <div class="row justify-content-center">
         <!-- Hardcoded Director Section -->
-        {% assign item_name = "Hakwan Lau" %}
-        {% assign item_image = "/assets/images/team/hakwan.jpg" %}
-        {% assign item_excerpt = "Director of the Perceptual Intelligence Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies." %}
-        {% include teambox.html %}
+        <div class="col-md-6 col-lg-4 mb-30px">
+            <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/hakwan.jpg'); background-size: cover; background-position: 38% 22%; height: 300px;">
+                </div>
+                <div class="card-body">
+                    <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        Hakwan Lau
+                    </h2>
+                    <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
+                        Director of the Perceptual Intelligence Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies.
+                    </h4>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
