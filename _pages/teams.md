@@ -122,17 +122,28 @@ permalink: /team/
     </div>
 </section>
 
-<!-- Research Assistants
-================================================== -->
+<!-- Research Assistants Section -->
 <section class="team-section">
     <div class="section-title">
         <h2><span>Research Assistants</span></h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-md-4 text-center">
-            <img src="/assets/images/team/junseo.jpeg" alt="Jun Seo Hwang" class="img-fluid" style="width: 300px; height: 400px; object-fit: cover;">
-            <h3>Jun Seo Hwang</h3>
-            <p>Jun Seo Hwang is a dedicated Research Assistant contributing to the Perceptual Intelligence Lab's neurofeedback and behavioral experiments.</p>
+        <div class="col-md-6 col-lg-4 mb-30px">
+            <a href="{{ site.baseurl }}/team/jun-seo-hwang" class="text-dark" style="text-decoration: none;">
+                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: 38% 22%; width: 350px; height: 450px; margin: 0 auto;">
+                    </div>
+                    <div class="card-body text-center">
+                        <h2 class="card-title" style="font-size: 1.3rem; font-weight
+                        : 700; line-height: 1.25; text-align: center;">
+                            Jun Seo Hwang
+                        </h2>
+                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
+                            Jun Seo Hwang is a dedicated Research Assistant contributing to the Perceptual Intelligence Lab's neurofeedback and behavioral experiments.
+                        </h4>
+                    </div>
+                </div>
+            </a>
         </div>
     </div>
 </section>
