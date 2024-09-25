@@ -12,9 +12,9 @@ permalink: /team/
         <h2><span>Director</span></h2>
     </div>
     <div class="row justify-content-center">
-        {% assign sorted_news = site.news | sort: 'date' | reverse %}
-        {% for item in sorted_news %}
-            {% include newsbox.html %}
+        {% assign directors = site.team | where: 'category', 'Director' %}
+        {% for item in directors %}
+            {% include teambox.html %}
         {% endfor %}
     </div>
 </section>
