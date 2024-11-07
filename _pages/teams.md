@@ -5,7 +5,7 @@ hero_image: "/assets/images/team.jpg"
 hero_title: "Team"
 permalink: /team/
 ---
-##
+
 <!-- Director Section -->
 <section class="team-section">
     <div class="section-title">
