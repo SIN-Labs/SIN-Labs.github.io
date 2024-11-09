@@ -16,7 +16,7 @@ permalink: /team/
         <div class="col-md-6 col-lg-6 mb-30px">
             <!-- Wrap entire card with hyperlink -->
             <a href="{{ site.baseurl }}/team/hakwan-lau" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; align-items: center;">
                     <!-- Image Section (left side) -->
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/hakwan.png'); background-size: cover; background-position: 38% 22%; width: 50%; height: 250px;">
                     </div>
@@ -44,7 +44,7 @@ permalink: /team/
         <!-- Kayuet Liu -->
         <div class="col-md-6 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/kayeut-liu" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; align-items: center;">
                 <!-- Image Section (left side) -->
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpg'); background-size: cover; background-position: 38% 22%; width: 50%; height: 250px;">
                     </div>
@@ -63,7 +63,7 @@ permalink: /team/
         <!-- Ali Moharramipour -->
         <div class="col-md-6 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/ali-moharramipour" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; align-items: center;">
                 <!-- Image Section (left side) -->
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/ali.jpg'); background-size: cover; background-position: 38% 22%; width: 50%; height: 250px;">
                     </div>
@@ -82,7 +82,7 @@ permalink: /team/
         <!-- Qi Lin -->
         <div class="col-md-6 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/qi-lin" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; align-items: center;">
                 <!-- Image Section (left side) -->
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/qi.jpg'); background-size: cover; background-position: 38% 22%; width: 50%; height: 250px;">
                     </div>
@@ -109,7 +109,7 @@ permalink: /team/
     <div class="row justify-content-center">
         <div class="col-md-6 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/olga-gulka" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; align-items: center;">
                 <!-- Image Section (left side) -->
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/olga.jpg'); background-size: cover; background-position: 38% 22%; width: 50%; height: 250px;">
                     </div>
@@ -136,7 +136,7 @@ permalink: /team/
     <div class="row justify-content-center">
         <div class="col-md-6 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/jun-seo-hwang" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; align-items: center;">
                 <!-- Image Section (left side) -->
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: 38% 22%; width: 50%; height: 250px;">
                     </div>
