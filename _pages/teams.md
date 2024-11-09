@@ -18,10 +18,10 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/hakwan-lau" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/hakwan.png'); background-size: cover; background-position: center; width: 45%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/hakwan.png'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
-                    <div class="card-body" style="width: 50%; padding-left: 20px;">
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
                             Hakwan Lau
                         </h2>
@@ -46,10 +46,10 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/kayeut-liu" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpg'); background-size: cover; background-position: center; width: 45%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
-                    <div class="card-body" style="width: 50%; padding-left: 20px;">
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
                             Kayeut Liu
                         </h2>
@@ -65,10 +65,10 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/ali-moharramipour" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/ali.jpg'); background-size: cover; background-position: center; width: 45%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/ali.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
-                    <div class="card-body" style="width: 50%; padding-left: 20px;">
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
                             Ali Moharramipour
                         </h2>
@@ -84,10 +84,10 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/qi-lin" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125)); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/qi.jpg'); background-size: cover; background-position: center; width: 45%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/qi.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
-                    <div class="card-body" style="width: 50%; padding-left: 20px;">
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
                             Qi Lin
                         </h2>
@@ -111,10 +111,10 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/olga-gulka" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125)); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/olga.jpg'); background-size: cover; background-position: center; width: 45%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/olga.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
-                    <div class="card-body" style="width: 50%; padding-left: 20px;">
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
                             Olga Gulka
                         </h2>
@@ -138,10 +138,10 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/jun-seo-hwang" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: center; width: 45%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
-                    <div class="card-body" style="width: 50%; padding-left: 20px;">
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
                             Jun Seo Hwang
                         </h2>
