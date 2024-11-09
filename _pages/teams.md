@@ -22,12 +22,30 @@ permalink: /team/
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        <!-- Name -->
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Hakwan Lau
                         </h2>
+                        <!-- Position/Description -->
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
                             Director of the Perceptual Intelligence Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies.
                         </h4>
+                        <!-- Research Interests (New Section) -->
+                        <p class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.9rem; line-height: 1.6; font-weight: 400; margin-top: 10px;">
+                            <strong>Research Interest:</strong> 
+                        </p>
+                        <!-- Social Media Links (New Section) -->
+                        <div class="sns-icons" style="margin-top: 20px;">
+                            <a href="https://twitter.com/hakwanlau" target="_blank" style="color: #1DA1F2; margin-right: 10px;">
+                                <i class="fab fa-twitter" style="font-size: 1.25rem;"></i>
+                            </a>
+                            <a href="https://linkedin.com/in/hakwan-lau" target="_blank" style="color: #0077B5; margin-right: 10px;">
+                                <i class="fab fa-linkedin" style="font-size: 1.25rem;"></i>
+                            </a>
+                            <a href="https://hakwanlau.com" target="_blank" style="color: #333;">
+                                <i class="fas fa-globe" style="font-size: 1.25rem;"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </a>
@@ -50,7 +68,7 @@ permalink: /team/
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Kayeut Liu
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
@@ -69,7 +87,7 @@ permalink: /team/
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Ali Moharramipour
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
@@ -88,7 +106,7 @@ permalink: /team/
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Qi Lin
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
@@ -115,7 +133,7 @@ permalink: /team/
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Olga Gulka
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
@@ -142,7 +160,7 @@ permalink: /team/
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Jun Seo Hwang
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
