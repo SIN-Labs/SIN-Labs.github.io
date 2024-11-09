@@ -13,7 +13,7 @@ permalink: /team/
     </div>
     <div class="row justify-content-center">
         <!-- Hardcoded Director Section -->
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-30px">
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-30px">
             <!-- Wrap entire card with hyperlink -->
             <a href="{{ site.baseurl }}/team/hakwan-lau" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
@@ -42,7 +42,7 @@ permalink: /team/
     </div>
     <div class="row justify-content-center">
         <!-- Kayuet Liu -->
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-30px">
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-30px">
             <a href="{{ site.baseurl }}/team/kayeut-liu" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpg'); background-size: cover; background-position: 38% 22%; width: 350px; height: 450px; margin: 0 auto;">
@@ -60,7 +60,7 @@ permalink: /team/
         </div>
 
         <!-- Ali Moharramipour -->
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-30px">
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-30px">
             <a href="{{ site.baseurl }}/team/ali-moharramipour" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/ali.jpg'); background-size: cover; background-position: 38% 22%; width: 350px; height: 450px; margin: 0 auto;">
@@ -78,7 +78,7 @@ permalink: /team/
         </div>
 
         <!-- Qi Lin -->
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-30px">
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-30px">
             <a href="{{ site.baseurl }}/team/qi-lin" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/qi.jpg'); background-size: cover; background-position: 38% 22%; width: 350px; height: 450px; margin: 0 auto;">
@@ -103,7 +103,7 @@ permalink: /team/
         <h2><span>Students</span></h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-30px">
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-30px">
             <a href="{{ site.baseurl }}/team/olga-gulka" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/olga.jpg'); background-size: cover; background-position: 38% 22%; width: 350px; height: 450px; margin: 0 auto;">
@@ -128,7 +128,7 @@ permalink: /team/
         <h2><span>Research Assistants</span></h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 mb-30px">
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-30px">
             <a href="{{ site.baseurl }}/team/jun-seo-hwang" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                     <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: 38% 22%; width: 350px; height: 450px; margin: 0 auto;">
