@@ -28,6 +28,9 @@ permalink: /team/
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
                             Director of the Perceptual Intelligence Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies.
                         </h4>
+                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
+                            <strong>Research Interest:</strong>
+                        </h4>
                     </div>
                 </div>
             </a>
