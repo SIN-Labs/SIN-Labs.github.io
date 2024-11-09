@@ -30,6 +30,7 @@ permalink: /team/
                         </h4>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
                             <strong>Research Interest:</strong>
+                            [<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/twitter.svg" alt="Twitter" width="20" style="vertical-align:middle;margin-right:5px;">](https://twitter.com/hakwanlau)
                         </h4>
                     </div>
                 </div>
