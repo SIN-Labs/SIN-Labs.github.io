@@ -242,3 +242,42 @@ permalink: /team/
         </div>
     </div>
 </section>
+
+<!-- CSS -->
+<style>
+    /* Full width at small screens */
+    @media (max-width: 992px) {
+        .listfeaturedtag {
+            flex-direction: column; /* Stack image and text vertically */
+        }
+        .featured-box-img-cover {
+            width: 100%; /* Make the image span the full width */
+            height: 0; /* Maintain aspect ratio with padding */
+            padding-top: 75%; /* 4:3 Aspect ratio */
+        }
+        .card-body {
+            width: 100%; /* Make text span the full width */
+        }
+    }
+
+    /* Half-width at medium screens */
+    @media (min-width: 992px) and (max-width: 1200px) {
+        .listfeaturedtag {
+            width: 100%; /* Make the box take up the full width */
+        }
+    }
+
+    /* Default behavior for large screens */
+    @media (min-width: 1200px) {
+        .listfeaturedtag {
+            display: flex; /* Keep the side-by-side layout */
+        }
+        .featured-box-img-cover {
+            width: 35%; /* Side-by-side image */
+            height: auto;
+        }
+        .card-body {
+            width: 65%; /* Side-by-side text */
+        }
+    }
+</style>
