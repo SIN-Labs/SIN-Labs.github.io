@@ -177,7 +177,7 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/kayuet-liu" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpeg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
