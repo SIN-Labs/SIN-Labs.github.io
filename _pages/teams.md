@@ -154,10 +154,10 @@ permalink: /team/
                             Wonyi Che
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
-                            Wonyi Che is a Research Assistant working on behavioural experiments and cognitive neuroscience.
+                            Wonyi Che is a Research Assistant working on behavioural experiments and cognitive neuroscience. Her research interests lie in the field of human cognitive neuroscience, with a particular focus on memory, neurodevelopmental disorders, aging, and dementia. I aim to investigate the underlying neural mechanisms of cognitive processes and how they are altered by aging and disease across the lifespan.
                         </h4>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
-                            <strong>Research Interest:</strong>
+                            <strong>Research Interest: Memory, Aging, Neurodevelopmental Disorders</strong>
                         </h4>
                     </div>
                 </div>
@@ -169,7 +169,7 @@ permalink: /team/
 <!-- SKKU faculty collaborators Section -->
 <section class="team-section">
     <div class="section-title">
-        <h2><span>SKKU faculty collaborators</span></h2>
+        <h2><span>SKKU Faculty Collaborators</span></h2>
     </div>
     <div class="row justify-content-center">
         <!-- Kayuet Liu -->
@@ -177,7 +177,7 @@ permalink: /team/
             <a href="{{ site.baseurl }}/team/kayuet-liu" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpeg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
@@ -208,10 +208,33 @@ permalink: /team/
                             Seok-Jun Hong
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
-                            Seok-Jun Hong’s group specializes in brain network modeling and the data-driven subtyping of developmental conditions. His research integrates neuroinformatics, machine learning, and neuroimaging data across human and non-human primates.
+                            Seok-Jun Hong’s lab specializes in brain network modeling and the data-driven subtyping of developmental conditions. His research integrates neuroinformatics, machine learning, and neuroimaging data across human and non-human primates.
                         </h4>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
                             <strong>Research Interest: Brain Network Modeling, Developmental Conditions</strong>
+                        </h4>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <!-- Seng Bum Michael Yoo-->
+        <div class="col-md-6 col-lg-6 mb-30px">
+            <!-- Wrap entire card with hyperlink -->
+            <a href="https://myoolab.com/current/" class="text-dark" style="text-decoration: none;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                    <!-- Image Section (left side) -->
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/sengbum.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    </div>
+                    <!-- Content Section (right side) -->
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
+                            Seng Bum Michael Yoo
+                        </h2>
+                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
+                            Seng Bum Michael Yoo’s lab focuses on understanding the mental processes in both humans and animals, particularly in interactive and dynamic decision-making environments. His research investigates cognitive functions such as prediction, planning, social inference, learning, abstract reasoning, and transfer learning. His research employes a multidisciplinary approach like artificial intelligence, cognitive science, and computational ethology.
+                        </h4>
+                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
+                            <strong>Research Interest: Cognitive Functions, Animal Electrophysiology, Computational Modeling</strong>
                         </h4>
                     </div>
                 </div>
