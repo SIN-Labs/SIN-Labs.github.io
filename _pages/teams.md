@@ -119,11 +119,11 @@ permalink: /team/
     </div>
     <div class="row justify-content-center">
         <!-- Jun Seo Hwang -->
-        <div class="col-md-6 col-lg-6 mb-30px">
+        <div class="col-md-12 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/jun-seo-hwang" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px; display: flex; flex-wrap: wrap;">
                 <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/junseo.jpeg'); background-size: cover; background-position: center; flex-basis: 100%; height: 200px; border-radius: 0.25rem;">
                     </div>
                     <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
@@ -141,7 +141,7 @@ permalink: /team/
             </a>
         </div>
         <!-- Wonyi Che-->
-        <div class="col-md-6 col-lg-6 mb-30px">
+        <div class="col-md-12 col-lg-6 mb-30px">
             <!-- Wrap entire card with hyperlink -->
             <a href="{{ site.baseurl }}/team/wonyi-che" class="text-dark" style="text-decoration: none;">
                 <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
