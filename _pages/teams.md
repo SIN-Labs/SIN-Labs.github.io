@@ -44,25 +44,6 @@ permalink: /team/
         <h2><span>Principal Investigators</span></h2>
     </div>
     <div class="row justify-content-center">
-        <!-- Kayuet Liu -->
-        <div class="col-md-6 col-lg-6 mb-30px">
-            <a href="{{ site.baseurl }}/team/kayeut-liu" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
-                <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/kayuet.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
-                    </div>
-                    <!-- Content Section (right side) -->
-                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
-                            Kayeut Liu
-                        </h2>
-                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
-                            Kayeut's group focuses on mental health conditions like depression and anxiety disorders, and their link to aphantasia, using large cohort data analysis.
-                        </h4>
-                    </div>
-                </div>
-            </a>
-        </div>
         <!-- Ali Moharramipour -->
         <div class="col-md-6 col-lg-6 mb-30px">
             <a href="{{ site.baseurl }}/team/ali-moharramipour" class="text-dark" style="text-decoration: none;">
