@@ -152,9 +152,6 @@ permalink: /team/
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
                             Jun Seo Hwang is a dedicated Research Assistant contributing to the Perceptual Intelligence Lab's neurofeedback and behavioral experiments.
                         </h4>
-                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
-                            <strong>Research Interest:</strong>
-                        </h4>
                     </div>
                 </div>
             </a>
@@ -181,6 +178,7 @@ permalink: /team/
                     </div>
                 </div>
             </a>
+        </div>
     </div>
 </section>
 
