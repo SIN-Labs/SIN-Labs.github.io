@@ -217,7 +217,7 @@ permalink: /team/
                 </div>
             </a>
         </div>
-        <!-- Seng Bum Michael Yoo-->
+        <!-- Seng Bum Michael Yoo--->
         <div class="col-md-6 col-lg-6 mb-30px">
             <!-- Wrap entire card with hyperlink -->
             <a href="https://myoolab.com/current/" class="text-dark" style="text-decoration: none;">
