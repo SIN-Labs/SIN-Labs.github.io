@@ -13,7 +13,7 @@ team:
         research_interest: "Cognitive Neuroscience, Neurofeedback"
         link: "https://twitter.com/hakwanlau"
 ---
-<!-- Iterate over team roles and members -->
+<!-- Dynamic Content -->
 {% for group in page.team %}
 <section class="team-section">
     <div class="section-title">
@@ -21,13 +21,14 @@ team:
     </div>
     <div class="row justify-content-center">
         {% for person in group.members %}
-        <div class="col-md-6 col-lg-4 mb-30px">
-            <div class="listfeaturedtag h-100 d-flex flex-column" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+        <div class="col-12 col-md-12 col-lg-6 mb-30px">
+            <div class="listfeaturedtag h-100 d-flex flex-column flex-lg-row" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
                 <!-- Image Section -->
-                <div class="featured-box-img-cover" style="background-image: url('{{ person.image }}'); background-size: cover; background-position: center; aspect-ratio: 3 / 4; border-radius: 0.25rem; height: 200px; width: 100%;">
+                <div class="featured-box-img-cover" style="background-image: url('{{ person.image }}'); background-size: cover; background-position: center; aspect-ratio: 3 / 4; border-radius: 0.25rem; width: 100%; height: 200px;" 
+                     class="flex-shrink-0">
                 </div>
                 <!-- Content Section -->
-                <div class="card-body text-left" style="padding: 15px 0;">
+                <div class="card-body text-left" style="padding: 15px; width: 100%;">
                     <h2 class="card-title" style="font-size: 1.3rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                         {{ person.name }}
                     </h2>
