@@ -166,6 +166,39 @@ permalink: /team/
     </div>
 </section>
 
+<!-- Lab Manager Section -->
+<section class="team-section">
+    <div class="section-title">
+        <h2><span>Lab Manager</span></h2>
+    </div>
+    <div class="row justify-content-center">
+        <!-- Hardcoded Director Section -->
+        <div class="col-md-6 col-lg-6 mb-30px">
+            <!-- Wrap entire card with hyperlink -->
+            <a href="{{ site.baseurl }}/team/mina-kim" class="text-dark" style="text-decoration: none;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                    <!-- Image Section (left side) -->
+                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/mina.png'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                    </div>
+                    <!-- Content Section (right side) -->
+                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
+                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
+                            Mina Kim
+                        </h2>
+                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
+                            Mina Kim is the lab manager in the Cocoan lab. She holds a background in performing arts and is skilled in bilingual communication, supporting both Korean and English-speaking team members. With a keen interest in facilitating neuroimaging research, she is focused on enhancing collaboration across diverse groups and managing the operational needs of the lab. She is especially interested in understanding the intersection between psychological well-being and cultural contexts, and she is dedicated to fostering an inclusive, efficient research environment.
+                        </h4>
+                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
+                            <strong>Research Interest:</strong>
+                        </h4>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+
 <!-- SKKU faculty collaborators Section -->
 <section class="team-section">
     <div class="section-title">
