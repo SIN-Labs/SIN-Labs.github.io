@@ -1,14 +1,15 @@
 ---
-layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
-comments: true
+layout: default
+title: Systems & Intervention Neuroscience
+hero_title: "Systems & Intervention Neuroscience"
+hero_image: "/assets/images/SIN.jpg"
+permalink: /about/SIN/
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>The Systems & Intervention Neuroscience (SIN) Lab is a collaborative initiative bringing together multiple labs and Principal Investigators (PIs) to explore the intricate mechanisms of brain function. Our research focuses on understanding brain circuits and networks using both invasive and non-invasive approaches in animal models. Through interdisciplinary collaboration and cutting-edge techniques, we aim to advance basic neuroscience and develop innovative interventions.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
