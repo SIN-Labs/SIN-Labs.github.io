@@ -1,24 +1,28 @@
 ---
 layout: post
-title:  "Hakwan Lau Appointed as Co-Director of IBS Neuroscience Imaging Research Group"
+title:  "[SKKU News] Hakwan Lau, RIKEN Team Leader, Appointed Co-Director of the Center for Neuroscience Imaging Research"
 hero_image: "/assets/images/news.jpg"
 hero_title: "News"
 image: assets/images/hakwan-lau-appointment.jpg
 date: 2024-09-03
 permalink: /news/2024-09-03-hakwan-lau-appointment/
 ---
-Renowned neuroscientist **Hakwan Lau**, a team leader at **RIKEN**, has been appointed as **Co-Director** of the **IBS Neuroscience Imaging Research Group** alongside **Director Sung-ki Kim**. Professor Lau officially assumed this new role on **September 1, 2024**.
+Hakwan Lau, a distinguished scholar bridging philosophy and cognitive science, will co-lead the Center for Neuroscience Imaging Research (CNIR) at the Institute for Basic Science (IBS) alongside Director Sung-ki Kim.
 
-With a Ph.D. from **Oxford University** and previous academic positions at **Columbia University** and **UCLA**, Professor Lau currently leads the RIKEN Brain Science Center's team in Japan. He is widely recognized for his interdisciplinary research combining **philosophy and cognitive science**.
+Professor Lau, who also holds a faculty position in Sungkyunkwan University’s Global Biomedical Engineering Department, officially assumed the role of Co-Director on September 1, 2024.
 
-A highly influential scholar in the field of neuroscience, Lau's research has been cited over 17,000 times, and he holds an **h-index** of 64, a key indicator of his impact in the scientific community. His latest academic book, *In Consciousness We Trust*, published in 2022, presents a novel theory of **conscious perception** based on collaboration between experimental and theoretical scientists.
+With a Ph.D. from Oxford University, Lau previously served as a professor at Columbia University and UCLA before becoming a team leader at the RIKEN Brain Science Center in Japan in 2021.
 
-Lau’s research explores critical questions, such as whether **machines like AI can achieve consciousness**, and the development of computational methods to assess **metacognitive abilities**. His work has earned him prestigious awards such as the **William James Award** (2005) and the **Janet Taylor Spence Award** (2012).
+Lau is widely recognized for his groundbreaking research that integrates psychology and neuroscience. He has achieved over 17,000 citations and an h-index of 64, reflecting his significant influence and contribution to the field.
 
-At IBS, Lau’s research will focus on understanding the fundamental reasons why humans experience the world differently from other animals, particularly in relation to the **prefrontal cortex**—a part of the brain that is more developed in humans and crucial for perception. His goal is to combine non-invasive methods applicable to humans with advanced techniques used in **rodent models** to uncover the unique role of the prefrontal cortex in human cognition.
+His academic pursuits over the past two decades are exemplified in his 2022 book, *In Consciousness We Trust*, which proposes an innovative theory of conscious perception through the collaboration of experimental and theoretical approaches.
 
-> "The IBS Neuroscience Imaging Research Group offers world-leading neuroimaging techniques, and with Director Kim's expertise in **MRI physics**, it was an easy decision to join this esteemed group. We have all the tools needed to tackle the **big questions** in basic neuroscience," said Lau.
+More recently, Lau has garnered attention for his research on whether machines, such as AI, can possess consciousness (*Science*, 2017) and for developing computational methodologies to assess metacognitive abilities. These accomplishments have earned him prestigious awards, including the William James Award (2005) and the Janet Taylor Spence Award (2012).
 
-The Perceptual Intelligence Lab is excited to collaborate with Professor Lau on future projects aimed at unraveling the neural basis of human consciousness.
+At CNIR, Lau aims to explore fundamental questions about why humans perceive the world differently from other animals. His research will focus on the prefrontal cortex—a uniquely developed region of the human brain—and its role in perception. Lau plans to combine non-invasive experimental methods suitable for humans with cutting-edge techniques applied to animal models, such as rodents, to advance this work.
+
+> “Joining CNIR was an easy decision, given the team’s world-renowned expertise in MRI physics under Director Kim’s leadership,” Lau said. “With the group’s advanced neuroimaging techniques and methodologies, we are well-equipped to tackle the big questions in basic neuroscience.”
+
+Lau expressed his commitment to leveraging the center’s capabilities to address major challenges in the field, contributing to a deeper understanding of the brain’s intricate workings.
 
 For more details, [read the full article](https://eng.skku.edu/skku/campus/skk_comm/news01.do?mode=view&articleNo=120412&article.offset=0&articleLimit=10).

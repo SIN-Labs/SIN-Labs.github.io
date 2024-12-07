@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Hassabis Repeatedly Spoke About a Nobel Prize for DeepMind\" Hakwan Lau, Leader of IBS Neuroscience Imaging Research Group"
+title: "[The Dong-A Ilbo] \"Hassabis Repeatedly Spoke About a Nobel Prize for DeepMind\" Hakwan Lau, Leader of IBS Neuroscience Imaging Research Group"
 hero_image: "/assets/images/news.jpg"
 hero_title: "News"
 image: assets/images/hakwan-lau-ai-nobel-contribution.jpg
