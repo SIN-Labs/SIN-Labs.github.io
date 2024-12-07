@@ -932,3 +932,60 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+/* General text styles */
+body, h1, h2, h3, h4, h5, h6, p {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.8;
+    color: rgba(0, 0, 0, .8);
+}
+
+/* Section Title Styles */
+.section-title h2 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.section-title span {
+    display: block;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+/* About Section Layout */
+.about-section {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 90%;
+    }
+
+    .about-section {
+        padding: 20px 0;
+    }
+
+    h2.section-title {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 0.9rem;
+    }
+}
