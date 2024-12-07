@@ -3,7 +3,7 @@ layout: default
 title: Systems & Intervention Neuroscience
 hero_title: "Systems & Intervention Neuroscience"
 hero_image: "/assets/images/SIN.jpg"
-permalink: /about/SIN/
+permalink: /about/sin/
 ---
 
 <div class="row justify-content-between">
