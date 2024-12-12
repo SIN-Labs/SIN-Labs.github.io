@@ -187,7 +187,7 @@ permalink: /team/
                             Mina Kim
                         </h2>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
-                            Mina Kim is the lab manager in the Cocoan lab. She holds a background in performing arts and is skilled in bilingual communication, supporting both Korean and English-speaking team members. With a keen interest in facilitating neuroimaging research, she is focused on enhancing collaboration across diverse groups and managing the operational needs of the lab. She is especially interested in understanding the intersection between psychological well-being and cultural contexts, and she is dedicated to fostering an inclusive, efficient research environment.
+                            Mina Kim is the lab manager in the SIN lab, with a background in performing arts. She supports neuroimaging research by managing lab operations and fostering collaboration.
                         </h4>
                         <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400; margin-top: 30px;">
                             <strong>Research Interest:</strong>
