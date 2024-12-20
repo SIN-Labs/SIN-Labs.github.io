@@ -3,7 +3,7 @@ layout: default
 title: "Meet the Team"
 hero_image: "/assets/images/team.jpg"
 hero_title: "Team"
-permalink: /team/
+permalink: /teams/
 ---
 
 <!-- Director Section -->
