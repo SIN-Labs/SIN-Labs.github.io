@@ -9,11 +9,17 @@ permalink: /teams/
 <!-- Team Section Grouped by Roles -->
 <section class="team-section">
     <div class="container">
-        <div class="row">
-            {% assign sorted_team = site.team | sort: "role" %}
-            {% for member in sorted_team %}
-                {% include teambox.html member=member %}
-            {% endfor %}
-        </div>
+        <!-- Grouped by Role -->
+        {% assign grouped_team = site.team | group_by: "role" %}
+        {% for group in grouped_team %}
+            <div class="section-title">
+                <h2><span>{{ group.name }}</span></h2>
+            </div>
+            <div class="row justify-content-center">
+                {% for member in group.items %}
+                    {% include teambox.html item=member %}
+                {% endfor %}
+            </div>
+        {% endfor %}
     </div>
 </section>
