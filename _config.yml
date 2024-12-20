@@ -82,6 +82,9 @@ collections:
   news:
     output: true
     permalink: /news/:title
+  team:
+    output: true
+    permalink: /team/:path
 
 # Other
 markdown: kramdown
