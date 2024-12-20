@@ -8,34 +8,12 @@ permalink: /teams/
 
 <!-- Team Section Grouped by Roles -->
 <section class="team-section">
-    {% assign sorted_team = site.data.team | sort: 'name' %}
-    {% assign current_role = "" %}
-
-    {% for member in sorted_team %}
-        {% assign member_role = member.role %}
-
-        <!-- Check if the current member belongs to a new role -->
-        {% if member_role != current_role %}
-            <!-- Close the previous row div if necessary -->
-            {% unless current_role == "" %}
-                </div> <!-- End of previous role's row -->
-            {% endunless %}
-
-            <!-- New section for the new role -->
-            <section class="role-section">
-                <div class="section-title">
-                    <h2><span>{{ member_role }}</span></h2>
-                </div>
-                <div class="row">
-        {% endif %}
-
-        <!-- Include the team member's box -->
-        {% include teambox.html item=member %}
-
-        <!-- Update current_role to this member's role -->
-        {% assign current_role = member_role %}
-    {% endfor %}
-
-    <!-- Close the last row div -->
+    <div class="container">
+        <div class="row">
+            {% assign sorted_team = site.team | sort: "role" %}
+            {% for member in sorted_team %}
+                {% include teambox.html member=member %}
+            {% endfor %}
+        </div>
     </div>
 </section>
