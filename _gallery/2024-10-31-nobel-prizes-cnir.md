@@ -8,3 +8,4 @@ date: 2024-10-31 17:00:00
 excerpt: "Director Hakwan Lau explains the significance of this year's Nobel Prizes and their insights and implications for CNIR research."
 permalink: /gallery/2024-10-31-nobel-prizes-cnir/
 ---
+Director Hakwan Lau explains the significance of this year's Nobel Prizes and their insights and implications for CNIR research.
