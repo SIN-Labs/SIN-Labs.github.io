@@ -6,20 +6,28 @@ hero_title: "Team"
 permalink: /teams/
 ---
 
-<!-- Team Section Grouped by Roles -->
+<!-- Team Page -->
 <section class="team-section">
     <div class="container">
-        <!-- Grouped by Role -->
+        <!-- Define Role Order -->
+        {% assign role_order = "Director,Principal Investigator,Postdoc,PhD Student,Research Assistant,Lab Manager,SKKU Faculty Collaborators" | split: "," %}
+        
+        <!-- Group Team by Role -->
         {% assign grouped_team = site.team | group_by: "role" %}
-        {% for group in grouped_team %}
-            <div class="section-title">
-                <h2><span>{{ group.name }}</span></h2>
-            </div>
-            <div class="row justify-content-center">
-                {% for member in group.items %}
-                    {% include teambox.html item=member %}
-                {% endfor %}
-            </div>
+        
+        <!-- Iterate by Defined Role Order -->
+        {% for role in role_order %}
+            {% assign group = grouped_team | where: "name", role %}
+            {% if group.size > 0 %}
+                <div class="section-title">
+                    <h2><span>{{ role }}</span></h2>
+                </div>
+                <div class="row justify-content-center">
+                    {% for member in group[0].items %}
+                        {% include teambox.html item=member %}
+                    {% endfor %}
+                </div>
+            {% endif %}
         {% endfor %}
     </div>
 </section>
