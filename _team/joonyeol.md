@@ -7,5 +7,5 @@ How attention and cognition modulate sensory neural representation and transmiss
 The neural basis of cognition in sensorimotor behaviors"
 research_interest: "Network analysis, Neurodevelopmental disorder"
 image: "/assets/images/team/joonyeol.png"
-permalink: /teams/joonyeol-lee/
+permalink: "https://semoconlab.com/people/current/"
 ---
