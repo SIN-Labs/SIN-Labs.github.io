@@ -10,7 +10,7 @@ permalink: /team/
 <section class="team-section">
     <div class="container">
         <!-- Define Role Order -->
-        {% assign role_order = "Director,Principal Investigator,Postdoc,PhD Student,Research Assistant,Lab Manager,SKKU Faculty Collaborators" | split: "," %}
+        {% assign role_order = "Director,Research Professor,Postdoc,PhD Student,Research Assistant,Lab Manager,SKKU Faculty Collaborators" | split: "," %}
         
         <!-- Group Team by Role -->
         {% assign grouped_team = site.team | group_by: "role" %}
