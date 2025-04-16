@@ -38,39 +38,16 @@ permalink: /teams/
     </div>
 </section>
 
-<!-- Principal Investigators Section -->
+<!-- Research Professor Section -->
 <section class="team-section">
     <div class="section-title">
-        <h2><span>Principal Investigators</span></h2>
+        <h2><span>Research Professor</span></h2>
     </div>
-    <div class="row justify-content-center">
-        <!-- Ali Moharramipour -->
-        <div class="col-md-6 col-lg-6 mb-30px">
-            <a href="{{ site.baseurl }}/team/ali-moharramipour" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
-                <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/ali.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
-                    </div>
-                    <!-- Content Section (right side) -->
-                    <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
-                        <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
-                            Ali Moharramipour
-                        </h2>
-                        <h4 class="card-text" style="color: rgba(0, 0, 0, .44); font-size: 0.95rem; line-height: 1.6; font-weight: 400;">
-                            Ali's group focuses on understanding the multidimensional nature of perception and uses human neuroimaging and mouse neurophysiological methods to study perceptual mechanisms.
-                        </h4>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <!-- Qi Lin -->
-        <div class="col-md-6 col-lg-6 mb-30px">
+    <div class="row justify-content-center"> <div class="col-md-6 col-lg-6 mb-30px offset-md-3">
             <a href="{{ site.baseurl }}/team/qi-lin" class="text-dark" style="text-decoration: none;">
-                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125)); border-radius: 0.25rem; padding: 20px;">
-                <!-- Image Section (left side) -->
-                    <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/qi.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
+                <div class="listfeaturedtag h-100 d-flex" style="border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 0.25rem; padding: 20px;">
+                <div class="featured-box-img-cover" style="background-image: url('/assets/images/team/qi.jpg'); background-size: cover; background-position: center; width: 35%; height: auto; aspect-ratio: 3 / 4; border-radius: 0.25rem;">
                     </div>
-                    <!-- Content Section (right side) -->
                     <div class="card-body text-left" style="width: 65%; padding-left: 20px;">
                         <h2 class="card-title" style="font-size: 1.5rem; font-weight: 700; line-height: 1.25; margin-top: 15px;">
                             Qi Lin
@@ -84,7 +61,6 @@ permalink: /teams/
         </div>
     </div>
 </section>
-
 <!-- Students Section -->
 <section class="team-section">
     <div class="section-title">
