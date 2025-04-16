@@ -1,6 +1,6 @@
 ---
 name: "Ali Moharramipour"
-role: ""
+role: "--"
 layout: default
 description: "Ali focuses on understanding the multidimensional nature of perception."
 research_interest: "Perception, Neuroimaging, Mouse Neurophysiology"
