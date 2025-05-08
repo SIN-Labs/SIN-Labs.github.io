@@ -2,7 +2,7 @@
 name: "Tomoya Nakamura"
 role: "Postdoc"
 layout: default
-description: "I have a background in psychophysics, specializing in the temporal aspects of visual perception. My current research utilizes fMRI to explore the fundamental distinctions between perceptual and mnemonic processes."
+description: "Tomoya has a background in psychophysics, specializing in the temporal aspects of visual perception. His current research utilizes fMRI to explore the fundamental distinctions between perceptual and mnemonic processes."
 image: "/assets/images/team/Tomoya.png"
 permalink: /teams/Tomoya_Nakamura/
 ---
