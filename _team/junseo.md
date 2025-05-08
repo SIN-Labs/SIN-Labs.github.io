@@ -2,7 +2,7 @@
 name: "Jun Seo Hwang"
 role: "Research Assistant"
 layout: default
-description: "Jun Seo Hwang is a research assistant working on neurofeedback and behavioral experiments.<br><strong>Research Interest:</strong> Consciousness, Behavioral Experiments"
+description: "Jun Seo conducts psychophysics experiments and monkey neurophysiology studies. His research interests center on consciousness."
 image: "/assets/images/team/junseo.png"
 permalink: /teams/jun-seo-hwang/
 ---
