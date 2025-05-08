@@ -2,8 +2,7 @@
 name: "Olga Gulka"
 role: "PhD Student"
 layout: default
-description: "Olga is a PhD student with research interests in cognitive functions, including memory and attention, using eye tracking and fMRI methods."
-research_interest: "cognitive functions"
+description: "Olga’s research interests include cognitive functions—particularly memory and attention—and research methods such as functional MRI and eye-tracking.."
 image: "/assets/images/team/olga.png"
 permalink: /teams/olga-gulka/
 ---
