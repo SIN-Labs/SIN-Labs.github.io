@@ -1,9 +1,9 @@
 ---
 name: "Hakwan Lau"
-role: "Director"
+role: "Principal investigator"
 layout: default
-description: "As Director of the Center for Neuroscience Imaging Research and Principal Investigator of the Systems & Intervention Neuroscience Lab, Hakwan focuses on cognitive neuroscience, neurofeedback, and perceptual studies."
-research_interest: "Cognitive neuroscience, neurofeedback"
+description: "As principal investigator of the Systems & Intervention Neuroscience Lab and director of the Center for Neuroscience Imaging Research, Hakwan aims to uncover the fundamental reason why humans experience the world differently from other animals."
+research_interest: "Perception, Cognition"
 image: "/assets/images/team/hakwan.png" # Add the image path
 permalink: /teams/hakwan/
 ---
