@@ -73,7 +73,7 @@ permalink: /joining-us/
         <h2><span>How to Apply</span></h2>
     </div>
     <div class="content">
-        <p>If you are interested in joining our group, please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining SIN group” and specify the position(s) you are applying for.</p>
+        <p>If you are interested in joining our group, please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining SIN group” and specify the position you are applying for.</p>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
