@@ -13,7 +13,7 @@ permalink: /about/
       <p>
         <b>The SIN group</b> is one of the two core groups at the Center for Neuroscience Imaging Research (CNIR) in the Institute for Basic Science (IBS), located at Sungkyunkwan University (SKKU) in Suwon. The SIN group is led by CNIR <b>Co-Director Hakwan Lau</b>. The other group is <b>the Computational, Affective, and Translational (CAT) Neuroscience group</b>, led by Associate Director Wani Woo.<br>
         The SIN group is a <b>collaborative initiative</b> bringing together multiple labs and principal investigators to explore the intricate mechanisms of brain function. Our focus is <b>basic neuroscience</b>, particularly the use of <b>animal models</b> to develop new methods for <b>intervening in human neural processes</b>.<br>
-        CNIR boasts world-class MRI resources—3 T and 7 T scanners for human and non-human primates, and 9.4 T and 15.2 T systems for rodents. We pair these capabilities with monkey electrophysiology and rodent optogenetics, creating an integrated, cross-species platform that lets us tackle some of neuroscience’s most demanding questions.
+        CNIR boasts world-class MRI resources—3 T and 7 T scanners for human and non-human primates, and 9.4 T and 15.2 T systems for rodents. We pair these capabilities with monkey electrophysiology and rodent optogenetics, creating an <b>integrated, cross-species platform</b> that lets us tackle some of neuroscience’s most demanding questions.
       </p>
     </div>
   </div>
