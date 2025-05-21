@@ -30,5 +30,13 @@ permalink: /about/
       <img src="/assets/images/15.2T.jpg" alt="15.2 T MRI" class="img-fluid shadow">
       <p class="text-center mt-2"><em>15.2 T MRI</em></p>
     </div>
+    <div class="col-md-6 col-lg-3 mb-4">
+      <img src="/assets/images/monkey.jpg" alt="7 T MRI" class="img-fluid shadow">
+      <p class="text-center mt-2"><em>Monkey electrophysiology</em></p>
+    </div>
+    <div class="col-md-6 col-lg-3 mb-4">
+      <img src="/assets/images/optogenetics.jpg" alt="7 T MRI" class="img-fluid shadow">
+      <p class="text-center mt-2"><em>Optogenetics</em></p>
+    </div>
   </div>
 </div>
