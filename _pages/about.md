@@ -23,16 +23,8 @@ permalink: /about/
 <div class="custom-container">
   <div class="row mt-4">
     <div class="col-md-6 col-lg-3 mb-4">
-      <img src="/assets/images/3T.jpg" alt="3 T MRI" class="img-fluid shadow">
-      <p class="text-center mt-2"><em>3 T MRI</em></p>
-    </div>
-    <div class="col-md-6 col-lg-3 mb-4">
       <img src="/assets/images/7T.jpg" alt="7 T MRI" class="img-fluid shadow">
       <p class="text-center mt-2"><em>7 T MRI</em></p>
-    </div>
-    <div class="col-md-6 col-lg-3 mb-4">
-      <img src="/assets/images/9.4T.jpg" alt="9.4 T MRI" class="img-fluid shadow">
-      <p class="text-center mt-2"><em>9.4 T MRI</em></p>
     </div>
     <div class="col-md-6 col-lg-3 mb-4">
       <img src="/assets/images/15.2T.jpg" alt="15.2 T MRI" class="img-fluid shadow">
