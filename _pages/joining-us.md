@@ -17,7 +17,7 @@ permalink: /joining-us/
         <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Postdoctoral Researchers
         </h3>
-        <p>We are hiring postdoctoral researchers for various areas of neuroscience research. Funding is available for up to 10 years with potential internal promotions to faculty positions through open competition. Areas of focus include:</p>
+        <p>We are hiring postdoctoral researchers for various areas of neuroscience research. Funding is available with potential internal promotions to faculty positions through open competition. Areas of focus include:</p>
         <ul>
             <li>Human cognitive neuroscience (focus on perception, memory, and fMRI analysis related to mental imagery and mental health)</li>
             <li>Computational neuroimaging (real-time/closed-loop multivoxel pattern analysis, network control theory, traveling waves, etc.)</li>
