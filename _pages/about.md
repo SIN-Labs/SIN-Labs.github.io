@@ -2,7 +2,7 @@
 layout: default
 title: About
 hero_title: "About us"
-hero_image: "/assets/images/about.jpg"
+hero_image: "/assets/images/about2.jpg"
 permalink: /about/
 ---
 <!-- About Section -->
