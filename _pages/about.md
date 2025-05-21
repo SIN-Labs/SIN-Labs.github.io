@@ -13,7 +13,7 @@ permalink: /about/
       <p>
         The Systems &amp; Intervention Neuroscience (SIN) group is one of the two core groups at the Center for Neuroscience Imaging Research (CNIR) in the Institute for Basic Science (IBS), located at Sungkyunkwan University (SKKU) in Suwon. The SIN group is led by CNIR Co-Director Hakwan Lau. The other group is the Computational, Affective, and Translational (CAT) Neuroscience group, led by Associate Director Wani Woo.<br>
         The SIN group is a collaborative initiative bringing together multiple labs and principal investigators to explore the intricate mechanisms of brain function. Our focus is basic neuroscience, particularly the use of animal models to develop new methods for intervening in human neural processes.<br>
-        CNIR has generous IBS funding and houses some of the best MRI facilities in the world, accommodating primates (humans and non-humans at 3 T and 7 T) and rodents (9.4 T and 15.2 T, with concurrent optogenetic stimulation and/or optical neurophysiology). This unique setup lets us showcase the advantages of functional MRI across species—and, critically, to combine these approaches to tackle some of the field’s toughest questions.
+        CNIR has generous IBS funding and houses some of the best MRI facilities in the world, accommodating primates (humans and non-humans at 3 T and 7 T) and rodents (9.4 T and 15.2 T, with concurrent optogenetic stimulation and optical neurophysiology). This unique setup lets us showcase the advantages of functional MRI across species—and, critically, to combine these approaches to tackle some of the field’s toughest questions.
       </p>
     </div>
   </div>
