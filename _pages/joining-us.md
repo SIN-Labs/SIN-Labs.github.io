@@ -9,17 +9,6 @@ permalink: /joining-us/
 <!-- Introduction Section -->
 <section class="joining-us-section">
     <div class="section-title">
-        <h2><span>Introduction</span></h2>
-    </div>
-    <div class="content">
-        <p>Our lab, co-directed by Prof. Hakwan Lau and supported by MR physicist Seong-Gi Kim, is located at the IBS Center for Neuroscience Imaging Research at Sungkyunkwan University, Korea. We are moving to Korea in September 2024 and are excited to build several new research groups in neuroimaging and related fields. With access to some of the world’s most advanced neuroimaging facilities (7T MRI for humans, 15.2T MRI for rodents, and more), we are looking for dedicated individuals to join us at all levels.</p>
-        <p>We are actively recruiting for the following positions:</p>
-    </div>
-</section>
-
-<!-- Positions Available Section -->
-<section class="joining-us-section">
-    <div class="section-title">
         <h2><span>Positions Available</span></h2>
     </div>
 
@@ -49,7 +38,7 @@ permalink: /joining-us/
         <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             Staff Scientists / Junior Principal Investigators
         </h3>
-        <p>We are hiring staff scientists or junior PIs who can establish and lead research groups of 2-3 full-time researchers, as well as PhD students. Internal funding is provided, so there is no pressure for grant writing or teaching duties. These positions come with potential to transition to tenure-track roles at SKKU, with a focus on rodent electrophysiology and calcium imaging.</p>
+        <p>We are hiring staff scientists or junior PIs who can establish and lead research groups of 2-3 full-time researchers, as well as PhD students. Internal funding is provided, so there is no pressure for grant writing or teaching duties. These positions come with potential to transition to tenure-track roles at SKKU.</p>
     </div>
 
     <!-- Research Assistants -->
@@ -84,8 +73,7 @@ permalink: /joining-us/
         <h2><span>How to Apply</span></h2>
     </div>
     <div class="content">
-        <p>If you are interested in joining Perceptual Intelligence Laboratories (PIL), please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining Perceptual Intelligence Laboratories” and specify the position(s) you are applying for.</p>
-        <p>Positions are available from September 2024, and the review and hiring processes will continue until early 2025.</p>
+        <p>If you are interested in joining our group, please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining SIN group” and specify the position(s) you are applying for.</p>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
