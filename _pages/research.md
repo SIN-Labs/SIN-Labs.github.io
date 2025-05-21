@@ -5,66 +5,8 @@ hero_title: "Research"
 permalink: /about/research/
 ---
 
-## Research at Perceptual Intelligence Laboratories
+## Research 
 
-Perceptual Intelligence Laboratories (PIL) is a multi-lab project with a shared goal of understanding the role of the prefrontal cortex in various perception modalities such as vision, hearing, touch, fear, and pain. Using a combination of neuroimaging techniques (e.g., fMRI and calcium imaging with optogenetic stimulations), we explore the perceptual mechanisms in both human and animal models (mice and macaques).
-
-<!-- Hakwan Lau Section -->
-<section class="research-section">
-    <div class="section-title">
-        <h2><span>Hakwan Lau</span></h2>
-    </div>
-    <div class="research-content">
-        <p>
-          Hakwan Lau’s group focuses on refining the methods of MVPR (multivoxel pattern reinforcement) and conducting perceptual psychophysics studies in mice. His work also involves collecting electrophysiological data from prefrontal areas during perception tasks in macaques. Prior to joining PIL, Hakwan was a PI at Columbia University, UCLA, and RIKEN.
-        </p>
-    </div>
-</section>
-
-<!-- Kayuet Liu Section -->
-<section class="research-section">
-    <div class="section-title">
-        <h2><span>Kayuet Liu</span></h2>
-    </div>
-    <div class="research-content">
-        <p>
-          Kayuet Liu’s research focuses on the link between mental health conditions such as depression and anxiety and aphantasia. She works primarily with large-scale cohort data analysis. Kayuet was previously a tenured associate professor at UCLA and a senior staff scientist at RIKEN.
-        </p>
-    </div>
-</section>
-
-<!-- Ali Moharramipour Section -->
-<section class="research-section">
-    <div class="section-title">
-        <h2><span>Ali Moharramipour</span></h2>
-    </div>
-    <div class="research-content">
-        <p>
-          Ali Moharramipour’s group focuses on the multidimensional nature of perception and subjective similarity judgments. He uses both human neuroimaging and neurophysiological methods in mice to explore these mechanisms. Ali is scheduled to start his group in 2026.
-        </p>
-    </div>
-</section>
-
-<!-- Qi Lin Section -->
-<section class="research-section">
-    <div class="section-title">
-        <h2><span>Qi Lin</span></h2>
-    </div>
-    <div class="research-content">
-        <p>
-          Qi Lin’s group investigates individual differences in both perception and memory, with a focus on neural coding. Her group will use human neuroimaging and primate neurophysiological data to continue her research from Yale and RIKEN. Qi’s group will start in 2025.
-        </p>
-    </div>
-</section>
-
-<!-- Upcoming Research Groups -->
-<section class="research-section">
-    <div class="section-title">
-        <h2><span>Upcoming Research Groups</span></h2>
-    </div>
-    <div class="research-content">
-        <p>
-          Two additional groups are scheduled to start in 2025/26. One will focus on rodent neurophysiology, and another will concentrate on MVPR methods development, as well as human learning and metacognition.
-        </p>
-    </div>
-</section>
+Broadly, our group interested in the prefrontal cortex, especially mechanisms in the lateral, granular prefrontal cortex, which are relatively unique to primates, including humans. These mechanisms are typically associated with abstract thinking, action control, and attention. However, we believe they also play important roles in perception (broadly defined) and in metacognition—that is, the monitoring of ongoing cognitive and perceptual processes. The SIN group is particularly focused on developing methods for manipulating these mechanisms to assess their causal roles in cognitive functions.
+One method we are currently developing is called hemodynamic pattern reinforcement, in which we treat fMRI not just as a tool for reading out signals from the brain, but also as a means to manipulate them. This is made possible through closed-loop (i.e., real-time) imaging methods, with which we pair the occurrence of specific activity patterns with reward or other stimuli. For example, we can pair the neural representation of a phobic target (e.g., spiders) with reward, thereby reducing its threat value and lowering excessive physiological arousal when the subject later encounters images of that target. We are currently working on ways to make this method more robust and effective.
+To that end, we also conduct these studies in animal models, where we can simultaneously observe both hemodynamic activity and electrophysiological signals through optical (calcium) imaging. In these studies, we can also use optogenetic stimulation to target specific brain regions. This work draws on both the human MRI facilities at the center (7T) and the rodent MRI platforms (9.4T and 15.2T).
