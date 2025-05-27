@@ -30,7 +30,7 @@ permalink: /joining-us/
         <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
             PhD Students
         </h3>
-        <p>We are recruiting PhD students interested in human cognitive neuroscience, high-level perception, memory, and large group fMRI data analysis. At PIL, you will have the opportunity to work with multiple PIs and gain a wide variety of experience.</p>
+        <p>We are recruiting PhD students interested in human cognitive neuroscience, high-level perception, memory, and large group fMRI data analysis. At SIN, you will have the opportunity to work with multiple PIs and gain a wide variety of experience.</p>
     </div>
 
     <!-- Staff Scientists / Junior PIs -->
