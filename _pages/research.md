@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-hero_image: "/assets/images/team.jpg"
+hero_image: "/assets/images/research.jpg"
 hero_title: "Research"
 permalink: /research/
 ---
