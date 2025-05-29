@@ -35,7 +35,7 @@ permalink: /research/
       <!-- Images after Paragraph 3 -->
       <div class="row justify-content-center my-5">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 700px; height: auto;">
+          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 800px; height: auto;">
           <p><em>Cross-Species Data Fusion</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
