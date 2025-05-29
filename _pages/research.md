@@ -23,7 +23,7 @@ permalink: /research/
 
       <!-- Image after Paragraph 2 -->
       <div class="my-4 text-center">
-        <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" style="width: 300px; height: auto;" class="img-fluid shadow mx-auto d-block">
+        <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" style="width: 700px; height: auto;" class="img-fluid shadow mx-auto d-block">
         <p class="mt-2"><em>Hemodynamic Pattern Reinforcement</em></p>
       </div>
 
@@ -35,11 +35,11 @@ permalink: /research/
       <!-- Images after Paragraph 3 -->
       <div class="row justify-content-center my-4">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 150px; height: auto;">
+          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 500px; height: auto;">
           <p><em>Cross-Species Data Fusion</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 150px; height: auto;">
+          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 500px; height: auto;">
           <p><em>fMRI + Optogenetics</em></p>
         </div>
       </div>
@@ -52,17 +52,17 @@ permalink: /research/
       <!-- Images after Paragraph 4 -->
       <div class="row justify-content-center my-4">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 100px; height: auto;">
-          <p><em>Cross-Species Data Fusion</em></p>
+          <img src="/assets/images/metad.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 100px; height: auto;">
+          <p><em>Perceptual Metacognition</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 100px; height: auto;">
-          <p><em>fMRI + Optogenetics</em></p>
+          <img src="/assets/images/confidenceDL.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 100px; height: auto;">
+          <p><em>Confidence Estimation with Deep Learning</em></p>
         </div>
       </div>
 
       <p>
-        To learn more about our publications, please visit
+        To learn more about our <b>publications</b>, please visit
         <a href="https://scholar.google.com/citations?user=RGBSG7EAAAAJ&hl=en" target="_blank">
           Hakwan Lau’s Google Scholar page
         </a>.
