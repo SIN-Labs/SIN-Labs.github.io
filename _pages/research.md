@@ -35,7 +35,7 @@ permalink: /research/
       <!-- Images after Paragraph 3 -->
       <div class="row justify-content-center my-4">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 500px; height: auto;">
+          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 600px; height: auto;">
           <p><em>Cross-Species Data Fusion</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
@@ -52,11 +52,11 @@ permalink: /research/
       <!-- Images after Paragraph 4 -->
       <div class="row justify-content-center my-4">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/metad.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 100px; height: auto;">
+          <img src="/assets/images/metad.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 400px; height: auto;">
           <p><em>Perceptual Metacognition</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/confidenceDL.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 100px; height: auto;">
+          <img src="/assets/images/confidenceDL.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 400px; height: auto;">
           <p><em>Confidence Estimation with Deep Learning</em></p>
         </div>
       </div>
