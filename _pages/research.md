@@ -52,7 +52,7 @@ permalink: /research/
       <!-- Images after Paragraph 4 -->
       <div class="row justify-content-center my-5">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/metad.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 600px; height: auto;">
+          <img src="/assets/images/metad.png" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 600px; height: auto;">
           <p><em>Perceptual Metacognition</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
