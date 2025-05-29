@@ -2,7 +2,7 @@
 layout: default
 title: Research
 hero_title: "Research"
-permalink: /about/research/
+permalink: /research/
 ---
 
 ## Research 
