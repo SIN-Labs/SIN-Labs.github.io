@@ -22,11 +22,9 @@ permalink: /research/
       </p>
 
       <!-- Image after Paragraph 2 -->
-      <div class="row my-4">
-        <div class="col-md-6 mb-4">
-          <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" class="img-fluid shadow">
-          <p class="text-center mt-2"><em>Hemodynamic Pattern Reinforcement</em></p>
-        </div>
+      <div class="my-4 text-center">
+        <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" class="img-fluid shadow mx-auto d-block">
+        <p class="mt-2"><em>Hemodynamic Pattern Reinforcement</em></p>
       </div>
 
       <!-- Paragraph 3 -->
@@ -35,15 +33,11 @@ permalink: /research/
       </p>
 
       <!-- Images after Paragraph 3 -->
-      <div class="row my-4">
-        <div class="col-md-6 mb-4">
-          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Platform" class="img-fluid shadow">
-          <p class="text-center mt-2"><em>Cross-Species Research Platform</em></p>
-        </div>
-        <div class="col-md-6 mb-4">
-          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow">
-          <p class="text-center mt-2"><em>fMRI and Optogenetics Integration</em></p>
-        </div>
+      <div class="my-4 text-center">
+        <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow mx-auto d-block mb-3">
+        <p><em>Cross-Species Data Fusion</em></p>
+        <img src="/assets/images/fmrioptogenetics.png" alt="fMRI and Optogenetics Integration" class="img-fluid shadow mx-auto d-block mt-4">
+        <p class="mt-2"><em>fMRI and Optogenetics Integration</em></p>
       </div>
 
       <!-- Paragraph 4 -->
@@ -52,16 +46,19 @@ permalink: /research/
       </p>
 
       <!-- Images after Paragraph 4 -->
-      <div class="row my-4">
-        <div class="col-md-6 mb-4">
-          <img src="/assets/images/metad.jpg" alt="Perceptual Metacognition" class="img-fluid shadow">
-          <p class="text-center mt-2"><em>Perceptual Metacognition</em></p>
-        </div>
-        <div class="col-md-6 mb-4">
-          <img src="/assets/images/confidenceDL.png" alt="AI & Confidence Modeling" class="img-fluid shadow">
-          <p class="text-center mt-2"><em>AI and Confidence Modeling</em></p>
-        </div>
+      <div class="my-4 text-center">
+        <img src="/assets/images/metad.jpg" alt="Perceptual Metacognition" class="img-fluid shadow mx-auto d-block mb-3">
+        <p><em>Perceptual Metacognition</em></p>
+        <img src="/assets/images/confidenceDL.png" alt="Confidence Estimation with Deep Learning" class="img-fluid shadow mx-auto d-block mt-4">
+        <p class="mt-2"><em>Confidence Estimation with Deep Learning</em></p>
       </div>
+
+      <p>
+        To learn more about our publications, please visit
+        <a href="https://scholar.google.com/citations?user=RGBSG7EAAAAJ&hl=en" target="_blank">
+          Hakwan Lau’s Google Scholar page
+        </a>.
+      </p>
 
     </div>
   </div>
