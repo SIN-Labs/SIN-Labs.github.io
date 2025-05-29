@@ -23,7 +23,7 @@ permalink: /research/
 
       <!-- Image after Paragraph 2 -->
       <div class="my-4 text-center">
-        <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" class="img-fluid shadow mx-auto d-block">
+        <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" style="width: 300px; height: auto;" class="img-fluid shadow mx-auto d-block">
         <p class="mt-2"><em>Hemodynamic Pattern Reinforcement</em></p>
       </div>
 
@@ -33,11 +33,15 @@ permalink: /research/
       </p>
 
       <!-- Images after Paragraph 3 -->
-      <div class="my-4 text-center">
-        <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow mx-auto d-block mb-3">
-        <p><em>Cross-Species Data Fusion</em></p>
-        <img src="/assets/images/fmrioptogenetics.png" alt="fMRI and Optogenetics Integration" class="img-fluid shadow mx-auto d-block mt-4">
-        <p class="mt-2"><em>fMRI and Optogenetics Integration</em></p>
+      <div class="row justify-content-center my-4">
+        <div class="col-md-6 col-lg-5 text-center">
+          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 150px; height: auto;">
+          <p><em>Cross-Species Data Fusion</em></p>
+        </div>
+        <div class="col-md-6 col-lg-5 text-center">
+          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 150px; height: auto;">
+          <p><em>fMRI + Optogenetics</em></p>
+        </div>
       </div>
 
       <!-- Paragraph 4 -->
@@ -46,11 +50,15 @@ permalink: /research/
       </p>
 
       <!-- Images after Paragraph 4 -->
-      <div class="my-4 text-center">
-        <img src="/assets/images/metad.jpg" alt="Perceptual Metacognition" class="img-fluid shadow mx-auto d-block mb-3">
-        <p><em>Perceptual Metacognition</em></p>
-        <img src="/assets/images/confidenceDL.png" alt="Confidence Estimation with Deep Learning" class="img-fluid shadow mx-auto d-block mt-4">
-        <p class="mt-2"><em>Confidence Estimation with Deep Learning</em></p>
+      <div class="row justify-content-center my-4">
+        <div class="col-md-6 col-lg-5 text-center">
+          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 100px; height: auto;">
+          <p><em>Cross-Species Data Fusion</em></p>
+        </div>
+        <div class="col-md-6 col-lg-5 text-center">
+          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 100px; height: auto;">
+          <p><em>fMRI + Optogenetics</em></p>
+        </div>
       </div>
 
       <p>
