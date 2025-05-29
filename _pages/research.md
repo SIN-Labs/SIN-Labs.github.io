@@ -5,8 +5,19 @@ hero_image: "/assets/images/research.jpg"
 hero_title: "Research"
 permalink: /research/
 ---
-
-## Research 
+<!-- About Section -->
+<section class="about-section">
+  <div class="container">
+    <div class="custom-container">
+      <h2 class="section-title"><span>Research</span></h2>
+      <p>
+        <b>The SIN group</b> is one of the two core groups at the Center for Neuroscience Imaging Research (CNIR) in the Institute for Basic Science (IBS), located at Sungkyunkwan University (SKKU) in Suwon. The SIN group is led by CNIR <b>Co-Director Hakwan Lau</b>. The other group is <b>the Computational, Affective, and Translational (CAT) Neuroscience group</b>, led by Associate Director Wani Woo.<br>
+        The SIN group is a <b>collaborative initiative</b> bringing together multiple labs and principal investigators to explore the intricate mechanisms of brain function. Our focus is <b>basic neuroscience</b>, particularly the use of <b>animal models</b> to develop new methods for <b>intervening in human neural processes</b>.<br>
+        CNIR boasts world-class MRI resources—3 T and 7 T scanners for human and non-human primates, and 9.4 T and 15.2 T systems for rodents. We pair these capabilities with monkey electrophysiology and rodent optogenetics, creating an <b>integrated, cross-species platform</b> that lets us tackle some of neuroscience’s most demanding questions.
+      </p>
+    </div>
+  </div>
+</section>
 
 Broadly, our lab is interested in the prefrontal cortex, especially mechanisms in the lateral, granular prefrontal cortex, which are relatively unique to primates, including humans. These mechanisms are typically associated with abstract thinking, action control, and attention. However, we believe they also play important roles in perception (broadly defined) and in metacognition—that is, the monitoring of ongoing cognitive and perceptual processes. The SIN group is particularly focused on developing methods for manipulating these mechanisms to assess their causal roles in cognitive functions.
 
