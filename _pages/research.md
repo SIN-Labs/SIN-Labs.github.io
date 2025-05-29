@@ -22,7 +22,7 @@ permalink: /research/
       </p>
 
       <!-- Image after Paragraph 2 -->
-      <div class="my-4 text-center">
+      <div class="my-5 text-center">
         <img src="/assets/images/decnef.jpg" alt="Hemodynamic Pattern Reinforcement" style="width: 700px; height: auto;" class="img-fluid shadow mx-auto d-block">
         <p class="mt-2"><em>Hemodynamic Pattern Reinforcement</em></p>
       </div>
@@ -33,13 +33,13 @@ permalink: /research/
       </p>
 
       <!-- Images after Paragraph 3 -->
-      <div class="row justify-content-center my-4">
+      <div class="row justify-content-center my-5">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 600px; height: auto;">
+          <img src="/assets/images/cross-species.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 700px; height: auto;">
           <p><em>Cross-Species Data Fusion</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 500px; height: auto;">
+          <img src="/assets/images/fmrioptogenetics.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 600px; height: auto;">
           <p><em>fMRI + Optogenetics</em></p>
         </div>
       </div>
@@ -50,13 +50,13 @@ permalink: /research/
       </p>
 
       <!-- Images after Paragraph 4 -->
-      <div class="row justify-content-center my-4">
+      <div class="row justify-content-center my-5">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/metad.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 400px; height: auto;">
+          <img src="/assets/images/metad.jpg" alt="Cross-Species Data Fusion" class="img-fluid shadow" style="width: 600px; height: auto;">
           <p><em>Perceptual Metacognition</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/confidenceDL.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 400px; height: auto;">
+          <img src="/assets/images/confidenceDL.png" alt="fMRI + Optogenetics" class="img-fluid shadow" style="width: 600px; height: auto;">
           <p><em>Confidence Estimation with Deep Learning</em></p>
         </div>
       </div>
