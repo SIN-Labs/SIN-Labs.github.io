@@ -19,7 +19,7 @@ permalink: /research/
       <!-- Image after Paragraph 1 -->
       <div class="row justify-content-center my-5">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/pfcspecies.png" alt="PFC across species" class="img-fluid shadow" style="width: 1200px; height: auto;">
+          <img src="/assets/images/pfcspecies.png" alt="PFC across species" class="img-fluid shadow" style="width: 1600px; height: auto;">
           <p><em>PFC across species</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
