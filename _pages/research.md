@@ -13,8 +13,14 @@ permalink: /research/
 
       <!-- Paragraph 1 -->
       <p>
-        Broadly, the SIN group is interested in the <b>prefrontal cortex</b>, particularly mechanisms in the <b>lateral, granular prefrontal cortex</b>, which are relatively unique to primates, including humans. These mechanisms are typically associated with <b>abstract thinking</b>, <b>action control</b>, and <b>attention</b>. However, we believe they also play important roles in <b>perception</b> (broadly defined) and in <b>metacognition</b>—that is, the monitoring of ongoing cognitive and perceptual processes. The SIN group is especially focused on developing methods to <b>manipulate these mechanisms</b> in order to assess their <b>causal roles</b> in cognitive functions.
+        Broadly, the SIN group is interested in the <b>prefrontal cortex (PFC)</b>, particularly mechanisms in the <b>lateral, granular PFC</b>, which are relatively unique to primates, including humans. These mechanisms are typically associated with <b>abstract thinking</b>, <b>action control</b>, and <b>attention</b>. However, we believe they also play important roles in <b>perception</b> (broadly defined) and in <b>metacognition</b>—that is, the monitoring of ongoing cognitive and perceptual processes. The SIN group is especially focused on developing methods to <b>manipulate these mechanisms</b> in order to assess their <b>causal roles</b> in cognitive functions.
       </p>
+
+      <!-- Image after Paragraph 1 -->
+      <div class="my-5 text-center">
+        <img src="/assets/images/pfcintervene.png" alt="Causal mechanisms of PFC" style="width: 500px; height: auto;" class="img-fluid shadow mx-auto d-block">
+        <p class="mt-2"><em>Causal mechanisms of PFC</em></p>
+      </div>
 
       <!-- Paragraph 2 -->
       <p>
