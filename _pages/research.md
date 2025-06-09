@@ -19,11 +19,11 @@ permalink: /research/
       <!-- Image after Paragraph 1 -->
       <div class="row justify-content-center my-5">
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/pfcspecies.png" alt="PFC across species" class="img-fluid shadow" style="width: 800px; height: auto;">
+          <img src="/assets/images/pfcspecies.png" alt="PFC across species" class="img-fluid shadow" style="width: 1200px; height: auto;">
           <p><em>PFC across species</em></p>
         </div>
         <div class="col-md-6 col-lg-5 text-center">
-          <img src="/assets/images/pfcintervene.png" alt="Causal mechanisms of PFC" class="img-fluid shadow" style="width: 500px; height: auto;">
+          <img src="/assets/images/pfcintervene.png" alt="Causal mechanisms of PFC" class="img-fluid shadow" style="width: 400px; height: auto;">
           <p><em>Causal mechanisms of PFC</em></p>
         </div>
       </div>
