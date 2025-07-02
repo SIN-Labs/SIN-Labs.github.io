@@ -1,6 +1,6 @@
 ---
 name: "Olga Gulka"
-role: "Student"
+role: "PhD Student"
 layout: default
 description: "Olga’s research interests include cognitive functions—particularly memory and attention—and research methods such as functional MRI and eye-tracking."
 image: "/assets/images/team/olga.png"
