@@ -2,6 +2,7 @@
 name: "Minjoo Kang"
 role: "Research Assistant"
 layout: default
-description: "Minjoo"
-permalink: /teams/minjoo/
+description: "minjoo."
+image: "/assets/images/team/minjoo.jpg"
+permalink: /teams/maria/
 ---
