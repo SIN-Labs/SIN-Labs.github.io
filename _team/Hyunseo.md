@@ -10,5 +10,4 @@ using psychophysics and
 neuroimaging. She likes tea and
 cake."
 image: "/assets/images/team/Hyunseo.png"
-permalink: /teams/HyunSeo_Lee/
 ---
