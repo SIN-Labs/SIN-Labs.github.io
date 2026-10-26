@@ -11,7 +11,7 @@ permalink: /joining-us/
         <h2><span>Open Positions</span></h2>
     </div>
     <div class="content">
-        <p>We are not actively recruiting at the momentbut we remain open to hearing from exceptional candidates at any career stage who share our research interests.</p>
+        <p>We are not actively recruiting at the moment, but we remain open to hearing from exceptional candidates at any career stage who share our research interests.</p>
     </div>
 </section>
 
