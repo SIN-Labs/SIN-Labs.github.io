@@ -6,65 +6,13 @@ hero_title: "Joining Us"
 permalink: /joining-us/
 ---
 
-<!-- Introduction Section -->
 <section class="joining-us-section">
     <div class="section-title">
-        <h2><span>Positions Available</span></h2>
+        <h2><span>Open Positions</span></h2>
     </div>
-
-    <!-- Postdoctoral Researchers -->
-    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
-        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
-            Postdoctoral Researchers
-        </h3>
-        <p>We are hiring postdoctoral researchers for various areas of neuroscience research. Funding is available with potential internal promotions to faculty positions through open competition. Areas of focus include:</p>
-        <ul>
-            <li>Human cognitive neuroscience (focus on perception, memory, and fMRI analysis related to mental imagery and mental health)</li>
-            <li>Computational neuroimaging (real-time/closed-loop multivoxel pattern analysis, network control theory, traveling waves, etc.)</li>
-            <li>Rodent electrophysiology and calcium imaging (perceptual decision-making, neurofeedback, fMRI)</li>
-        </ul>
+    <div class="content">
+        <p>We are not actively recruiting at the momentbut we remain open to hearing from exceptional candidates at any career stage who share our research interests.</p>
     </div>
-
-    <!-- PhD Students -->
-    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
-        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
-            PhD Students
-        </h3>
-        <p>We are not actively recruiting PhD students at the moment. </p>
-    </div>
-
-    <!-- Staff Scientists / Junior PIs -->
-    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
-        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
-            Staff Scientists / Junior Principal Investigators
-        </h3>
-        <p>We are hiring staff scientists or junior PIs who can establish and lead research groups of 2-3 full-time researchers, as well as PhD students. Internal funding is provided, so there is no pressure for grant writing or teaching duties. These positions come with potential to transition to tenure-track roles at SKKU.</p>
-    </div>
-
-    <!-- Research Assistants -->
-    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
-        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
-            Research Assistants
-        </h3>
-        <p>We are looking for research assistants to help with ongoing projects, including neurofeedback, data analysis, and behavioral experiments. Enthusiasm for neuroscience research and collaboration is key!</p>
-    </div>
-
-    <!-- Technical Staff -->
-    <div class="position-title" style="margin-left: 20px; margin-bottom: 30px;">
-        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
-            Technical Staff
-        </h3>
-        <p>We are seeking technical staff with expertise in brain stimulation (TMS, fMRI). Experience in computer hardware and programming (e.g., Python) is a plus, but minimal experience is required as training will be provided.</p>
-    </div>
-
-    <!-- Administrative Staff -->
-    <div class="position-title" style="margin-left: 20px;">
-        <h3 style="font-size: 1.3rem; font-weight: 700; color: #003366;">
-            Administrative Staff
-        </h3>
-        <p>We are recruiting administrative staff fluent in both English and Korean. No technical background is required, but interests in psychology and brain science would be ideal. Strong organizational skills and attention to detail are essential.</p>
-    </div>
-
 </section>
 
 <!-- How to Apply Section -->
@@ -73,7 +21,7 @@ permalink: /joining-us/
         <h2><span>How to Apply</span></h2>
     </div>
     <div class="content">
-        <p>If you are interested in joining our group, please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining SIN group” and specify the position you are applying for.</p>
+        <p>If you think you'd be a good fit, please send your CV and a brief message outlining your interest to <a href="mailto:hakwan@gmail.com">hakwan@gmail.com</a>. Include the subject line “Joining SIN group” and mention the kind of role you you are interested in.</p>
     </div>
 
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
