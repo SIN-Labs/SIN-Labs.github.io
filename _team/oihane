@@ -3,5 +3,5 @@ name: "Oihane"
 role: "SKKU Faculty Collaborators"
 layout: default
 description: "Oihane’s research interests are in mapping cognitive functions to artificial neural networks. She is also broadly interested in data analysis across different modalities of neuroscience."
-image: "assets/images/team/oihane.jpeg"
+image: "/assets/images/team/oihane.jpeg"
 ---
